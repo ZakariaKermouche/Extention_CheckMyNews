@@ -1,0 +1,821 @@
+[
+    {
+        "ad": null,
+        "ad_client_token": null,
+        "attachment_count": 1,
+        "attachments": [
+            {
+                "action_links": [],
+                "destination_url": null,
+                "fbclid": null,
+                "id": "1693529285164351",
+                "image": {
+                    "flexible": null,
+                    "height": null,
+                    "large": null,
+                    "width": null
+                },
+                "title": null,
+                "type": "Photo"
+            }
+        ],
+        "creation_time": 1777539443,
+        "domFoundAt": 1777549184707,
+        "engagment": {
+            "comment_count": null,
+            "reaction_count": null,
+            "share_count": null
+        },
+        "feedback_id": "ZmVlZGJhY2s6MTY5MzUyOTMwNTE2NDM0OQ==",
+        "id": "UzpfSUZTOjE6LTY5NzQ5NTg5ODkzNzEyMTkxODE6ZUp3VCs3Lzdjcy8yWjhlL1gyWFVsQkg3dFdMcnFRMFRtdGhFK2NRZVRQaTM2OFUrWGJGblQyZk01eFZiOTJQbWZGNUxHWkYzekdvTXBtQWhzeDNyOWs0VGhPdElnNnBmTGV6R0JCTTdrcnpxNk9XL3JadjF0ekV4dldPR2lUYXd3Rmd6dURuZWNVdjFTZTlqT21UQXNxSU9KdnhtTlNQVHRuMk1ESi9PTUxMZFlseWxzWTVsaGxhUGRCOXZsL1NLazV4bkdOL00rWEpqeGYzQVgwei92cXplRGxJdnplanhyWmxKTkRjMUpUTXhQak12SnpNdk5UNDVQN2NndnppMUNPNCthVWJQZVkzTVlqQTlEQXppQjFPKzcybGdZR0JRclpKbWRFUFlib1lJa0ZRR1VTWWVMekdHR0NFaEJvWWtVd1lHQUJSdWpjST0=",
+        "images": [
+            {
+                "height": 935,
+                "id": "1693529285164351",
+                "photo_image": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/685150816_1693529288497684_7955070502749496666_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_ohc=-qSFhLmKDhwQ7kNvwHz2bix&_nc_oc=AdoJogJO6NIAhBZdejyvngWBfMzquIuFkRyNt5y0k7cPl9MTk8NRGMwEIyrFx5vCVbM&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=XzFyLWEgw6kweUSagc3ssQ&_nc_ss=7c2a8&oh=00_Af29eQn10yI8cxR-8Wp3axEjWo6OIJDGhiGQTAHaK90_iA&oe=69F90383",
+                "url": "https://www.facebook.com/photo/?fbid=1693529285164351&set=a.179758433208118",
+                "width": 526
+            }
+        ],
+        "inDOM": true,
+        "isSponsored": false,
+        "is_attachment": true,
+        "matchFingerprint": "author:ismaïl ismaïl",
+        "message": null,
+        "messageHash": "0",
+        "messagePreview": null,
+        "post_id": "1693529305164349",
+        "privacy": {
+            "description": "Public",
+            "icon_image": {
+                "name": "everyone"
+            }
+        },
+        "queued": true,
+        "queuedAt": 1777549184916,
+        "register_ad_payload": {
+            "adanalyst_ad_id": "1693529305164349",
+            "advertiser_facebook_id": "100035218883632",
+            "advertiser_facebook_page": "https://www.facebook.com/Ismailismaill67",
+            "advertiser_facebook_profile_pic": "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-1/473072114_1328357418348208_761592665575397389_n.jpg?stp=cp0_dst-jpg_s40x40_tt6&_nc_cat=107&ccb=1-7&_nc_sid=1d2534&_nc_ohc=57q9fMHmbRAQ7kNvwEZa2JV&_nc_oc=AdrFG6WfHHgRrOtbTcXS_MoABsDoxNzvA_E1KAcfMDYQmP_DOIQvqwNVSqex8Xw1V8U&_nc_zt=24&_nc_ht=scontent-cdg4-2.xx&_nc_gid=XzFyLWEgw6kweUSagc3ssQ&_nc_ss=7c2a8&oh=00_Af3IzUrYpe1Iqv-dB3cTzP6TN7bShMfW8KRUBgYn-wilGQ&oe=69F91EF2",
+            "attachment_media_urls": [],
+            "clientToken": null,
+            "explanationUrl": null,
+            "fb_id": "1693529305164349",
+            "graphQLAsyncParams": null,
+            "html_ad_id": "1693529305164349",
+            "images": [
+                "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/685150816_1693529288497684_7955070502749496666_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_ohc=-qSFhLmKDhwQ7kNvwHz2bix&_nc_oc=AdoJogJO6NIAhBZdejyvngWBfMzquIuFkRyNt5y0k7cPl9MTk8NRGMwEIyrFx5vCVbM&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=XzFyLWEgw6kweUSagc3ssQ&_nc_ss=7c2a8&oh=00_Af29eQn10yI8cxR-8Wp3axEjWo6OIJDGhiGQTAHaK90_iA&oe=69F90383",
+                "https://www.facebook.com/photo/?fbid=1693529285164351&set=a.179758433208118"
+            ],
+            "landing_pages": [],
+            "objId": null,
+            "offsetX": 0,
+            "offsetY": 0,
+            "raw_ad": "{\"post_id\":\"1693529305164349\",\"id\":\"UzpfSUZTOjE6LTY5NzQ5NTg5ODkzNzEyMTkxODE6ZUp3VCs3Lzdjcy8yWjhlL1gyWFVsQkg3dFdMcnFRMFRtdGhFK2NRZVRQaTM2OFUrWGJGblQyZk01eFZiOTJQbWZGNUxHWkYzekdvTXBtQWhzeDNyOWs0VGhPdElnNnBmTGV6R0JCTTdrcnpxNk9XL3JadjF0ekV4dldPR2lUYXd3Rmd6dURuZWNVdjFTZTlqT21UQXNxSU9KdnhtTlNQVHRuMk1ESi9PTUxMZFlseWxzWTVsaGxhUGRCOXZsL1NLazV4bkdOL00rWEpqeGYzQVgwei92cXplRGxJdnplanhyWmxKTkRjMUpUTXhQak12SnpNdk5UNDVQN2NndnppMUNPNCthVWJQZVkzTVlqQTlEQXppQjFPKzcybGdZR0JRclpKbWRFUFlib1lJa0ZRR1VTWWVMekdHR0NFaEJvWWtVd1lHQUJSdWpjST0=\",\"message\":\"\",\"url\":\"https://www.facebook.com/Ismailismaill67/posts/pfbid0rQfiHrT7tLAdYF5QGZsGycwcfWTJD3qrzdAtRhaS5dGjCWjKB4R9k5rj5HUyUUb2l\",\"author\":{\"name\":\"Isma'ïl Isma'ïl\",\"id\":\"100035218883632\",\"page\":\"https://www.facebook.com/Ismailismaill67\",\"type\":\"User\",\"profile_picture\":\"https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-1/473072114_1328357418348208_761592665575397389_n.jpg?stp=cp0_dst-jpg_s40x40_tt6&_nc_cat=107&ccb=1-7&_nc_sid=1d2534&_nc_ohc=57q9fMHmbRAQ7kNvwEZa2JV&_nc_oc=AdrFG6WfHHgRrOtbTcXS_MoABsDoxNzvA_E1KAcfMDYQmP_DOIQvqwNVSqex8Xw1V8U&_nc_zt=24&_nc_ht=scontent-cdg4-2.xx&_nc_gid=XzFyLWEgw6kweUSagc3ssQ&_nc_ss=7c2a8&oh=00_Af3IzUrYpe1Iqv-dB3cTzP6TN7bShMfW8KRUBgYn-wilGQ&oe=69F91EF2\"},\"attachments\":[{\"type\":\"Photo\",\"id\":\"1693529285164351\",\"image\":{\"flexible\":null,\"large\":null,\"width\":null,\"height\":null},\"title\":null,\"destination_url\":null,\"fbclid\":null,\"action_links\":[]}],\"ad\":null}",
+            "serialized_frtp_identifiers": null,
+            "story_debug_info": null,
+            "timestamp": 1777549184916,
+            "type": "publicPost",
+            "user_id": null,
+            "video": false,
+            "video_id": "",
+            "videos": [],
+            "visible": true,
+            "visibleDuration": [
+                {
+                    "end_ts": null,
+                    "started_ts": 1777549184000
+                }
+            ],
+            "visible_fraction": 1
+        },
+        "seenAt": 1777549184000,
+        "source": "bootstrap",
+        "type": "Story",
+        "url": "https://www.facebook.com/Ismailismaill67/posts/pfbid0rQfiHrT7tLAdYF5QGZsGycwcfWTJD3qrzdAtRhaS5dGjCWjKB4R9k5rj5HUyUUb2l",
+        "videos": [],
+        "visibleAt": 1777549184000,
+        "visibleDuration": [
+            {
+                "end_ts": null,
+                "started_ts": 1777549184000
+            }
+        ]
+    },
+    {
+        "ad": null,
+        "attachments": [],
+        "author": {
+            "id": null,
+            "name": "Isma'ïl Isma'ïl",
+            "url": null
+        },
+        "detectedAt": 1777549187170,
+        "domFoundAt": 1777549187170,
+        "id": "980001738314258",
+        "images": [
+            "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/685150816_1693529288497684_7955070502749496666_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_ohc=-qSFhLmKDhwQ7kNvwHz2bix&_nc_oc=AdoJogJO6NIAhBZdejyvngWBfMzquIuFkRyNt5y0k7cPl9MTk8NRGMwEIyrFx5vCVbM&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=XzFyLWEgw6kweUSagc3ssQ&_nc_ss=7c2a8&oh=00_Af29eQn10yI8cxR-8Wp3axEjWo6OIJDGhiGQTAHaK90_iA&oe=69F90383",
+            "data:image/svg+xml,%3Csvg fill='none' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint0_linear_15251_63610)'/%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint1_radial_15251_63610)'/%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint2_radial_15251_63610)' fill-opacity='.5'/%3E%3Cpath d='M7.3014 3.8662a.6974.6974 0 0 1 .6974-.6977c.6742 0 1.2207.5465 1.2207 1.2206v1.7464a.101.101 0 0 0 .101.101h1.7953c.992 0 1.7232.9273 1.4917 1.892l-.4572 1.9047a2.301 2.301 0 0 1-2.2374 1.764H6.9185a.5752.5752 0 0 1-.5752-.5752V7.7384c0-.4168.097-.8278.2834-1.2005l.2856-.5712a3.6878 3.6878 0 0 0 .3893-1.6509l-.0002-.4496ZM4.367 7a.767.767 0 0 0-.7669.767v3.2598a.767.767 0 0 0 .767.767h.767a.3835.3835 0 0 0 .3835-.3835V7.3835A.3835.3835 0 0 0 5.134 7h-.767Z' fill='%23fff'/%3E%3Cdefs%3E%3CradialGradient id='paint1_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(90 .0005 8) scale(7.99958)'%3E%3Cstop offset='.5618' stop-color='%230866FF' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%230866FF' stop-opacity='.1'/%3E%3C/radialGradient%3E%3CradialGradient id='paint2_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(45 -4.5257 10.9237) scale(10.1818)'%3E%3Cstop offset='.3143' stop-color='%2302ADFC'/%3E%3Cstop offset='1' stop-color='%2302ADFC' stop-opacity='0'/%3E%3C/radialGradient%3E%3ClinearGradient id='paint0_linear_15251_63610' x1='2.3989' y1='2.3999' x2='13.5983' y2='13.5993' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2302ADFC'/%3E%3Cstop offset='.5' stop-color='%230866FF'/%3E%3Cstop offset='1' stop-color='%232B7EFF'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/svg%3E"
+        ],
+        "inDOM": true,
+        "isSponsored": true,
+        "landingPages": [
+            "https://www.facebook.com/stories/115743882942907/UzpfSVNDOjE3MDQwMjAxNDc0MzkyMzI=/?view_single=false&__cft__[0]=AZY6Pwclkj7lgdlx0SwYm_O6TZKxUfcMOXEAIHdadAOjl5TR0dWf9Fctri6tBcPbnXRo7V1kj8uW6oMVQ49KXwzQBa2yOqZ74yfK6-rsX4OrJH1nsfI29gxIJuckhofVeAwgpK3SJH1OWAacvydVt5N-c5p74CUMFgULJ-xz6ZEknQoeapFTvnfjo3J2gr5imHqLl7_tAku8yOMFaZehklOO&__tn__=%3C%3C%2CP-R",
+            "https://www.facebook.com/Ismailismaill67?__cft__[0]=AZY6Pwclkj7lgdlx0SwYm_O6TZKxUfcMOXEAIHdadAOjl5TR0dWf9Fctri6tBcPbnXRo7V1kj8uW6oMVQ49KXwzQBa2yOqZ74yfK6-rsX4OrJH1nsfI29gxIJuckhofVeAwgpK3SJH1OWAacvydVt5N-c5p74CUMFgULJ-xz6ZEknQoeapFTvnfjo3J2gr5imHqLl7_tAku8yOMFaZehklOO&__tn__=-UC%2CP-R",
+            "https://www.facebook.com/Ismailismaill67/posts/pfbid0rQfiHrT7tLAdYF5QGZsGycwcfWTJD3qrzdAtRhaS5dGjCWjKB4R9k5rj5HUyUUb2l?__cft__[0]=AZY6Pwclkj7lgdlx0SwYm_O6TZKxUfcMOXEAIHdadAOjl5TR0dWf9Fctri6tBcPbnXRo7V1kj8uW6oMVQ49KXwzQBa2yOqZ74yfK6-rsX4OrJH1nsfI29gxIJuckhofVeAwgpK3SJH1OWAacvydVt5N-c5p74CUMFgULJ-xz6ZEknQoeapFTvnfjo3J2gr5imHqLl7_tAku8yOMFaZehklOO&__tn__=%2CO%2CP-R",
+            "https://www.facebook.com/",
+            "https://www.facebook.com/photo/?fbid=1693529285164351&set=a.179758433208118&__cft__[0]=AZY6Pwclkj7lgdlx0SwYm_O6TZKxUfcMOXEAIHdadAOjl5TR0dWf9Fctri6tBcPbnXRo7V1kj8uW6oMVQ49KXwzQBa2yOqZ74yfK6-rsX4OrJH1nsfI29gxIJuckhofVeAwgpK3SJH1OWAacvydVt5N-c5p74CUMFgULJ-xz6ZEknQoeapFTvnfjo3J2gr5imHqLl7_tAku8yOMFaZehklOO&__tn__=EH-R"
+        ],
+        "message": null,
+        "post_id": "980001738314258",
+        "queuedAt": 1777549187170,
+        "source": "dom_standalone",
+        "url": "https://www.facebook.com/Ismailismaill67/posts/pfbid0rQfiHrT7tLAdYF5QGZsGycwcfWTJD3qrzdAtRhaS5dGjCWjKB4R9k5rj5HUyUUb2l"
+    },
+    {
+        "ad": null,
+        "attachments": [],
+        "author": {
+            "id": null,
+            "name": "Astuces Mamie Faciles",
+            "url": null
+        },
+        "detectedAt": 1777549187623,
+        "domFoundAt": 1777549187623,
+        "id": "980000583117321",
+        "images": [
+            "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/687040307_1266427205661246_8351181946701742075_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_ohc=1H0xWHzYfOUQ7kNvwE0Gosh&_nc_oc=AdqTQO8qUkr9ib6clM6aN8x9Bny52YSPe-JOKNtFxrQebTtPEQniYmvtdyvjGUaWQV8&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=XzFyLWEgw6kweUSagc3ssQ&_nc_ss=7c2a8&oh=00_Af1WowK27bG6yRP2FxRFWhlT-7vkOpxSpQTcN9I7cq-KKQ&oe=69F91007",
+            "data:image/svg+xml,%3Csvg fill='none' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint0_linear_15251_63610)'/%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint1_radial_15251_63610)'/%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint2_radial_15251_63610)' fill-opacity='.5'/%3E%3Cpath d='M7.3014 3.8662a.6974.6974 0 0 1 .6974-.6977c.6742 0 1.2207.5465 1.2207 1.2206v1.7464a.101.101 0 0 0 .101.101h1.7953c.992 0 1.7232.9273 1.4917 1.892l-.4572 1.9047a2.301 2.301 0 0 1-2.2374 1.764H6.9185a.5752.5752 0 0 1-.5752-.5752V7.7384c0-.4168.097-.8278.2834-1.2005l.2856-.5712a3.6878 3.6878 0 0 0 .3893-1.6509l-.0002-.4496ZM4.367 7a.767.767 0 0 0-.7669.767v3.2598a.767.767 0 0 0 .767.767h.767a.3835.3835 0 0 0 .3835-.3835V7.3835A.3835.3835 0 0 0 5.134 7h-.767Z' fill='%23fff'/%3E%3Cdefs%3E%3CradialGradient id='paint1_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(90 .0005 8) scale(7.99958)'%3E%3Cstop offset='.5618' stop-color='%230866FF' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%230866FF' stop-opacity='.1'/%3E%3C/radialGradient%3E%3CradialGradient id='paint2_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(45 -4.5257 10.9237) scale(10.1818)'%3E%3Cstop offset='.3143' stop-color='%2302ADFC'/%3E%3Cstop offset='1' stop-color='%2302ADFC' stop-opacity='0'/%3E%3C/radialGradient%3E%3ClinearGradient id='paint0_linear_15251_63610' x1='2.3989' y1='2.3999' x2='13.5983' y2='13.5993' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2302ADFC'/%3E%3Cstop offset='.5' stop-color='%230866FF'/%3E%3Cstop offset='1' stop-color='%232B7EFF'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/svg%3E"
+        ],
+        "inDOM": true,
+        "isSponsored": true,
+        "landingPages": [
+            "https://www.facebook.com/stories/100533638917281/UzpfSVNDOjE2NjIwNzk5NzE0ODc2MjE=/?view_single=false&__cft__[0]=AZbkZUKoGIqa0hTezNMrZc8ypSohK3YjfDNxasD6IBUV7jZaHkxLTSsLzHXk62gRsrI6NFpceRT9b9obCGAQEXCaU-j30Il5aeueGuiK2pD0qz07fDkAUcqIbv08daq1Gbwpwgz04rTchZI2MvC9brUU1ZdFALVCQpUFU2ZQ6XBosg1vvOR1_zZHe20vfBQWb169fiQ63cO47sCQ7O1UNI5x&__tn__=%3C%3C%2CP-R",
+            "https://www.facebook.com/astucesmamiefaciles?__cft__[0]=AZbkZUKoGIqa0hTezNMrZc8ypSohK3YjfDNxasD6IBUV7jZaHkxLTSsLzHXk62gRsrI6NFpceRT9b9obCGAQEXCaU-j30Il5aeueGuiK2pD0qz07fDkAUcqIbv08daq1Gbwpwgz04rTchZI2MvC9brUU1ZdFALVCQpUFU2ZQ6XBosg1vvOR1_zZHe20vfBQWb169fiQ63cO47sCQ7O1UNI5x&__tn__=-UC%2CP-R",
+            "https://www.facebook.com/astucesmamiefaciles/posts/pfbid0PVcrUvGbmgxeKDzmBwYp5iNJuCJYC18uYMxc2r8TNioE5nmoEDS3JVNisWhEXN22l?__cft__[0]=AZbkZUKoGIqa0hTezNMrZc8ypSohK3YjfDNxasD6IBUV7jZaHkxLTSsLzHXk62gRsrI6NFpceRT9b9obCGAQEXCaU-j30Il5aeueGuiK2pD0qz07fDkAUcqIbv08daq1Gbwpwgz04rTchZI2MvC9brUU1ZdFALVCQpUFU2ZQ6XBosg1vvOR1_zZHe20vfBQWb169fiQ63cO47sCQ7O1UNI5x&__tn__=%2CO%2CP-R",
+            "https://www.facebook.com/",
+            "https://www.facebook.com/photo/?fbid=1266427202327913&set=a.412710264366282&__cft__[0]=AZbkZUKoGIqa0hTezNMrZc8ypSohK3YjfDNxasD6IBUV7jZaHkxLTSsLzHXk62gRsrI6NFpceRT9b9obCGAQEXCaU-j30Il5aeueGuiK2pD0qz07fDkAUcqIbv08daq1Gbwpwgz04rTchZI2MvC9brUU1ZdFALVCQpUFU2ZQ6XBosg1vvOR1_zZHe20vfBQWb169fiQ63cO47sCQ7O1UNI5x&__tn__=EH-R"
+        ],
+        "message": "**Le secret d’une aubergine parfaite **",
+        "post_id": "980000583117321",
+        "queuedAt": 1777549187623,
+        "seenAt": 1777549189000,
+        "source": "dom_standalone",
+        "updatedAt": 1777549189702,
+        "url": "https://www.facebook.com/astucesmamiefaciles/posts/pfbid0PVcrUvGbmgxeKDzmBwYp5iNJuCJYC18uYMxc2r8TNioE5nmoEDS3JVNisWhEXN22l",
+        "visibleAt": 1777549189000,
+        "visibleDuration": [
+            {
+                "end_ts": null,
+                "started_ts": 1777549189000
+            },
+            {
+                "end_ts": 1777549189701,
+                "started_ts": 1777549189130
+            }
+        ]
+    },
+    {
+        "ad": null,
+        "attachments": [],
+        "author": {
+            "id": null,
+            "name": "Unknown Author",
+            "url": null
+        },
+        "detectedAt": 1777549187626,
+        "domFoundAt": 1777549187626,
+        "id": "990000857457831",
+        "images": [],
+        "inDOM": true,
+        "isSponsored": false,
+        "landingPages": [],
+        "message": "**Le secret d’une aubergine parfaite **",
+        "post_id": "990000857457831",
+        "queuedAt": 1777549187626,
+        "seenAt": 1777549189000,
+        "source": "dom_standalone",
+        "updatedAt": 1777549189305,
+        "url": "",
+        "visibleAt": 1777549189000,
+        "visibleDuration": [
+            {
+                "end_ts": null,
+                "started_ts": 1777549189000
+            }
+        ]
+    },
+    {
+        "ad": null,
+        "attachments": [],
+        "author": {
+            "id": "61554085494606",
+            "name": "Astuces Rapides",
+            "url": "https://www.facebook.com/profile.php?id=61554085494606"
+        },
+        "detectedAt": 1777549188682,
+        "domFoundAt": 1777549188682,
+        "id": "990000358161818",
+        "images": [
+            "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/683126253_122278566416136183_7355034116393591840_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=Ki8KWZ-5rbwQ7kNvwGH9Sk-&_nc_oc=Adr0EbbwLXtW0iPmtfBYUIpA5ts3OK5xBCtO7kiIpNUj-_uGVTYPD0sEI5ZwbG_EXSg&_nc_zt=23&_nc_ht=scontent-cdg4-2.xx&_nc_gid=_zqY7pGvhQ0TD5e-cPuwzg&_nc_ss=7c2a8&oh=00_Af39lge2tLNzlpFrybkwaK4RNXtEyj90Y5weaCGTqLT70Q&oe=69F8FD30"
+        ],
+        "inDOM": true,
+        "isSponsored": true,
+        "landingPages": [
+            "https://www.facebook.com/stories/122103789368136183/UzpfSVNDOjk5MDE2NTMyNjg3OTUwNw==/?view_single=false&__cft__[0]=AZbhsGx0b6-q4gL_2ELj-NFdBzc8Q3Rsweuk2pJ12O0gze_CUYdrW9ccIeF5NPUAiAqmNAuYcFEAcQUazVuT_mx1cXIPxyWlBmbENQ0DPeB39KGl8w5DO9UaG1yBsXe-UvB1oFFGza62_QkIHIe-P4PPrejqwRR8hRg-TAZMlahCumCAziKzflI78s5d0JxCaf_secdR5dhxf-931ZoPngJ0&__tn__=%3C%3C%2CP-R",
+            "https://www.facebook.com/profile.php?id=61554085494606&__cft__[0]=AZbhsGx0b6-q4gL_2ELj-NFdBzc8Q3Rsweuk2pJ12O0gze_CUYdrW9ccIeF5NPUAiAqmNAuYcFEAcQUazVuT_mx1cXIPxyWlBmbENQ0DPeB39KGl8w5DO9UaG1yBsXe-UvB1oFFGza62_QkIHIe-P4PPrejqwRR8hRg-TAZMlahCumCAziKzflI78s5d0JxCaf_secdR5dhxf-931ZoPngJ0&__tn__=-UC%2CP-R",
+            "https://www.facebook.com/permalink.php?story_fbid=pfbid0ifvYM6FBDWa1EBvfWpr1tFmwxhkPC8CXLtaMgdEKxBzQRYqLibRKPZVGnXzFPyq5l&id=61554085494606&__cft__[0]=AZbhsGx0b6-q4gL_2ELj-NFdBzc8Q3Rsweuk2pJ12O0gze_CUYdrW9ccIeF5NPUAiAqmNAuYcFEAcQUazVuT_mx1cXIPxyWlBmbENQ0DPeB39KGl8w5DO9UaG1yBsXe-UvB1oFFGza62_QkIHIe-P4PPrejqwRR8hRg-TAZMlahCumCAziKzflI78s5d0JxCaf_secdR5dhxf-931ZoPngJ0&__tn__=%2CO%2CP-R",
+            "https://www.facebook.com/",
+            "https://www.facebook.com/photo/?fbid=122278611236136183&set=a.122097836090136183&__cft__[0]=AZbhsGx0b6-q4gL_2ELj-NFdBzc8Q3Rsweuk2pJ12O0gze_CUYdrW9ccIeF5NPUAiAqmNAuYcFEAcQUazVuT_mx1cXIPxyWlBmbENQ0DPeB39KGl8w5DO9UaG1yBsXe-UvB1oFFGza62_QkIHIe-P4PPrejqwRR8hRg-TAZMlahCumCAziKzflI78s5d0JxCaf_secdR5dhxf-931ZoPngJ0&__tn__=EH-R"
+        ],
+        "message": "Comment protéger les murs de l’humidité avec ce conseil pour la maison",
+        "post_id": "990000358161818",
+        "queuedAt": 1777549188682,
+        "seenAt": 1777549189000,
+        "source": "dom_standalone",
+        "updatedAt": 1777549190206,
+        "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0ifvYM6FBDWa1EBvfWpr1tFmwxhkPC8CXLtaMgdEKxBzQRYqLibRKPZVGnXzFPyq5l&id=61554085494606",
+        "visibleAt": 1777549189000,
+        "visibleDuration": [
+            {
+                "end_ts": null,
+                "started_ts": 1777549189000
+            },
+            {
+                "end_ts": 1777549190206,
+                "started_ts": 1777549189503
+            }
+        ]
+    },
+    {
+        "ad": null,
+        "attachments": [],
+        "author": {
+            "id": null,
+            "name": "Plaque Personnalisée",
+            "url": null
+        },
+        "detectedAt": 1777549188916,
+        "domFoundAt": 1777549188916,
+        "id": "990000685518231",
+        "images": [
+            "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/683367936_1310907827888969_6178294550830389520_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=ABdk-mCtvdYQ7kNvwEC-1y0&_nc_oc=AdrkA4veNNxRGY2ZlCaIpK2VZqVNLUX476Wx6dzKsx902QAACzxJns-V61lm_4jvPFs&_nc_zt=23&_nc_ht=scontent-cdg4-2.xx&_nc_gid=_zqY7pGvhQ0TD5e-cPuwzg&_nc_ss=7c2a8&oh=00_Af1oKRdQhuJWJy60D8Bw5uwvfZNlPVWKFZWzz4ScMtHXgw&oe=69F90493",
+            "data:image/svg+xml,%3Csvg fill='none' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint0_linear_15251_63610)'/%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint1_radial_15251_63610)'/%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint2_radial_15251_63610)' fill-opacity='.5'/%3E%3Cpath d='M7.3014 3.8662a.6974.6974 0 0 1 .6974-.6977c.6742 0 1.2207.5465 1.2207 1.2206v1.7464a.101.101 0 0 0 .101.101h1.7953c.992 0 1.7232.9273 1.4917 1.892l-.4572 1.9047a2.301 2.301 0 0 1-2.2374 1.764H6.9185a.5752.5752 0 0 1-.5752-.5752V7.7384c0-.4168.097-.8278.2834-1.2005l.2856-.5712a3.6878 3.6878 0 0 0 .3893-1.6509l-.0002-.4496ZM4.367 7a.767.767 0 0 0-.7669.767v3.2598a.767.767 0 0 0 .767.767h.767a.3835.3835 0 0 0 .3835-.3835V7.3835A.3835.3835 0 0 0 5.134 7h-.767Z' fill='%23fff'/%3E%3Cdefs%3E%3CradialGradient id='paint1_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(90 .0005 8) scale(7.99958)'%3E%3Cstop offset='.5618' stop-color='%230866FF' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%230866FF' stop-opacity='.1'/%3E%3C/radialGradient%3E%3CradialGradient id='paint2_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(45 -4.5257 10.9237) scale(10.1818)'%3E%3Cstop offset='.3143' stop-color='%2302ADFC'/%3E%3Cstop offset='1' stop-color='%2302ADFC' stop-opacity='0'/%3E%3C/radialGradient%3E%3ClinearGradient id='paint0_linear_15251_63610' x1='2.3989' y1='2.3999' x2='13.5983' y2='13.5993' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2302ADFC'/%3E%3Cstop offset='.5' stop-color='%230866FF'/%3E%3Cstop offset='1' stop-color='%232B7EFF'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/svg%3E",
+            "data:image/svg+xml,%3Csvg fill='none' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cg clip-path='url(%23clip0_15251_63610)'%3E%3Cpath d='M15.9963 8c0 4.4179-3.5811 7.9993-7.9986 7.9993-4.4176 0-7.9987-3.5814-7.9987-7.9992 0-4.4179 3.5811-7.9992 7.9987-7.9992 4.4175 0 7.9986 3.5813 7.9986 7.9992Z' fill='url(%23paint0_linear_15251_63610)'/%3E%3Cpath d='M15.9973 7.9992c0 4.4178-3.5811 7.9992-7.9987 7.9992C3.5811 15.9984 0 12.417 0 7.9992S3.5811 0 7.9986 0c4.4176 0 7.9987 3.5814 7.9987 7.9992Z' fill='url(%23paint1_radial_15251_63610)'/%3E%3Cpath d='M7.9996 5.9081c-.3528-.8845-1.1936-1.507-2.1748-1.507-1.4323 0-2.4254 1.328-2.4254 2.6797 0 2.2718 2.3938 4.0094 4.0816 5.1589.3168.2157.7205.2157 1.0373 0 1.6878-1.1495 4.0815-2.8871 4.0815-5.159 0-1.3517-.993-2.6796-2.4254-2.6796-.9811 0-1.822.6225-2.1748 1.507Z' fill='%23fff'/%3E%3C/g%3E%3Cdefs%3E%3CradialGradient id='paint1_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='matrix(0 7.9992 -7.99863 0 7.9986 7.9992)'%3E%3Cstop offset='.5637' stop-color='%23E11731' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23E11731' stop-opacity='.1'/%3E%3C/radialGradient%3E%3ClinearGradient id='paint0_linear_15251_63610' x1='2.3986' y1='2.4007' x2='13.5975' y2='13.5993' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23FF74AE'/%3E%3Cstop offset='.5001' stop-color='%23FA2E3E'/%3E%3Cstop offset='1' stop-color='%23FF5758'/%3E%3C/linearGradient%3E%3CclipPath id='clip0_15251_63610'%3E%3Cpath fill='%23fff' d='M-.001.0009h15.9992v15.9984H-.001z'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E"
+        ],
+        "inDOM": true,
+        "isSponsored": true,
+        "landingPages": [
+            "https://www.facebook.com/groups/869811343575910/?__cft__[0]=AZZOycqNPcSU9N2Paa7ErOoJ5Ut9meIRekvK0yqGCZ8leLHQEu9Hwm-9zjDzivu4MW7iCngMYKMvDWyfAGhSqetHNIHmaX5SvvGjASlCpBG1A3sfO4SNUIowz7P18BRPgDrkR8AJSzm7XyPD5Ua3FcseQIhe4OfF7HaE3gzFQfEJlXvhakHCQqhMHLgVFy5MN9WvE-8dotl1wCR4xEXWwFzs&__tn__=%3C%3C%2CP-R",
+            "https://www.facebook.com/groups/869811343575910/user/100069092911533/?__cft__[0]=AZZOycqNPcSU9N2Paa7ErOoJ5Ut9meIRekvK0yqGCZ8leLHQEu9Hwm-9zjDzivu4MW7iCngMYKMvDWyfAGhSqetHNIHmaX5SvvGjASlCpBG1A3sfO4SNUIowz7P18BRPgDrkR8AJSzm7XyPD5Ua3FcseQIhe4OfF7HaE3gzFQfEJlXvhakHCQqhMHLgVFy5MN9WvE-8dotl1wCR4xEXWwFzs&__tn__=%3C%2CP-R",
+            "https://www.facebook.com/groups/869811343575910/?__cft__[0]=AZZOycqNPcSU9N2Paa7ErOoJ5Ut9meIRekvK0yqGCZ8leLHQEu9Hwm-9zjDzivu4MW7iCngMYKMvDWyfAGhSqetHNIHmaX5SvvGjASlCpBG1A3sfO4SNUIowz7P18BRPgDrkR8AJSzm7XyPD5Ua3FcseQIhe4OfF7HaE3gzFQfEJlXvhakHCQqhMHLgVFy5MN9WvE-8dotl1wCR4xEXWwFzs&__tn__=-UC%2CP-R",
+            "https://www.facebook.com/groups/869811343575910/user/100069092911533/?__cft__[0]=AZZOycqNPcSU9N2Paa7ErOoJ5Ut9meIRekvK0yqGCZ8leLHQEu9Hwm-9zjDzivu4MW7iCngMYKMvDWyfAGhSqetHNIHmaX5SvvGjASlCpBG1A3sfO4SNUIowz7P18BRPgDrkR8AJSzm7XyPD5Ua3FcseQIhe4OfF7HaE3gzFQfEJlXvhakHCQqhMHLgVFy5MN9WvE-8dotl1wCR4xEXWwFzs&__tn__=%2CP-R",
+            "https://www.facebook.com/groups/869811343575910/?multi_permalinks=2123044248252607&hoisted_section_header_type=recently_seen&__cft__[0]=AZZOycqNPcSU9N2Paa7ErOoJ5Ut9meIRekvK0yqGCZ8leLHQEu9Hwm-9zjDzivu4MW7iCngMYKMvDWyfAGhSqetHNIHmaX5SvvGjASlCpBG1A3sfO4SNUIowz7P18BRPgDrkR8AJSzm7XyPD5Ua3FcseQIhe4OfF7HaE3gzFQfEJlXvhakHCQqhMHLgVFy5MN9WvE-8dotl1wCR4xEXWwFzs&__tn__=%2CO%2CP-R",
+            "https://www.facebook.com/",
+            "https://www.facebook.com/photo/?fbid=1310907821222303&set=gm.2123044248252607&idorvanity=869811343575910&__cft__[0]=AZZOycqNPcSU9N2Paa7ErOoJ5Ut9meIRekvK0yqGCZ8leLHQEu9Hwm-9zjDzivu4MW7iCngMYKMvDWyfAGhSqetHNIHmaX5SvvGjASlCpBG1A3sfO4SNUIowz7P18BRPgDrkR8AJSzm7XyPD5Ua3FcseQIhe4OfF7HaE3gzFQfEJlXvhakHCQqhMHLgVFy5MN9WvE-8dotl1wCR4xEXWwFzs&__tn__=EH-R"
+        ],
+        "message": "xxxx-losi qqn connaît le propriétaire",
+        "post_id": "990000685518231",
+        "queuedAt": 1777549188916,
+        "seenAt": 1777549190000,
+        "source": "dom_standalone",
+        "updatedAt": 1777549190502,
+        "url": "",
+        "visibleAt": 1777549190000,
+        "visibleDuration": [
+            {
+                "end_ts": null,
+                "started_ts": 1777549190000
+            },
+            {
+                "end_ts": 1777549190502,
+                "started_ts": 1777549189899
+            }
+        ]
+    },
+    {
+        "ad": null,
+        "ad_client_token": null,
+        "attachment_count": 1,
+        "attachments": [
+            {
+                "action_links": [],
+                "destination_url": null,
+                "fbclid": null,
+                "id": "1266427202327913",
+                "image": {
+                    "flexible": null,
+                    "height": null,
+                    "large": null,
+                    "width": null
+                },
+                "title": null,
+                "type": "Photo"
+            }
+        ],
+        "creation_time": 1777540684,
+        "domFoundAt": 1777549185184,
+        "engagment": {
+            "comment_count": null,
+            "reaction_count": null,
+            "share_count": null
+        },
+        "feedback_id": "ZmVlZGJhY2s6MTI2NjQyNzIyNTY2MTI0NA==",
+        "id": "UzpfSUZTOjE6LTY5NzQ5NTg5ODkzNzEyMTkxODE6ZUp3VFc3WDcyL1BQQjdhY0Y5YVVFZnZ4NTFiZm84LzdXVVQ1eEE2ZCt2RHMwUUZkc1JrL1o4em5GYnZ5YmVaOFhrc1prWGZNYWd5bVlDRXpCakdHTktpaTFVeHVWOFNaZmpGZHVycnJ4OFBQKzFta0dUMm1OREF4cFJYQkRaUm1ZR0FRUDhpNklQb0JBd09EcXBBMG81c1VUTW9NN29CVUJsRVdIV25HUnI3TTR2amkxSkw0ekx6NHROVFVGRVpwQnV5UWdjZExqQ0ZHU0lpQkljbVVnUUVBTWxOT0NnPT0=",
+        "images": [
+            {
+                "height": 640,
+                "id": "1266427202327913",
+                "photo_image": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/687040307_1266427205661246_8351181946701742075_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_ohc=1H0xWHzYfOUQ7kNvwE0Gosh&_nc_oc=AdqTQO8qUkr9ib6clM6aN8x9Bny52YSPe-JOKNtFxrQebTtPEQniYmvtdyvjGUaWQV8&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=XzFyLWEgw6kweUSagc3ssQ&_nc_ss=7c2a8&oh=00_Af1WowK27bG6yRP2FxRFWhlT-7vkOpxSpQTcN9I7cq-KKQ&oe=69F91007",
+                "url": "https://www.facebook.com/photo/?fbid=1266427202327913&set=a.412710264366282",
+                "width": 512
+            }
+        ],
+        "inDOM": true,
+        "isSponsored": false,
+        "is_attachment": true,
+        "matchFingerprint": "le secret dune aubergine parfaite choisir une bo",
+        "message": "**Le secret d’une aubergine parfaite 🍆✨**\n\nChoisir une bonne aubergine fait toute la différence en cuisine. Un simple détail visuel permet de reconnaître facilement celle qui offrira une texture et un goût plus agréables.\n\n🔍 **Observer la base du fruit**\nRegardez l’auréole située sous l’aubergine, c’est un indicateur clé de sa qualité.\n\n✅ **Privilégier une auréole circulaire**\nUne petite forme ronde et bien définie indique une chair plus dense, avec moins de graines et un goût plus riche.\n\n❌ **Éviter une auréole allongée**\nUne forme étirée ou fendue révèle une chair plus spongieuse, contenant davantage de graines et moins savoureuse.\n\n👀 **Vérifier l’aspect général**\nUne peau lisse, brillante et ferme reste un bon complément pour confirmer la fraîcheur.\n\nCe repère simple permet de sélectionner facilement des aubergines plus savoureuses et d’améliorer naturellement la qualité de vos préparations.",
+        "messageHash": "u5yyb0",
+        "messagePreview": "**Le secret d’une aubergine parfaite 🍆✨**\n\nChoisir une bonne aubergine fait toute la différence en cuisine. Un simple d",
+        "post_id": "1266427202327913",
+        "privacy": {
+            "description": "Public",
+            "icon_image": {
+                "name": "custom"
+            }
+        },
+        "queued": true,
+        "queuedAt": 1777549189303,
+        "register_ad_payload": {
+            "adanalyst_ad_id": "1266427202327913",
+            "advertiser_facebook_id": "100068819341985",
+            "advertiser_facebook_page": "https://www.facebook.com/astucesmamiefaciles",
+            "advertiser_facebook_profile_pic": "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-1/361583505_590327253271248_3718213511808411580_n.jpg?stp=cp0_dst-jpg_s40x40_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=gjt9N2kXPHwQ7kNvwG2owOe&_nc_oc=AdrQmNzEnUFMUiAe79x1FwLW2apzLWE9_zlP3pT7TfapsTRxCb5h61RNo84Gg0hjKOs&_nc_zt=24&_nc_ht=scontent-cdg4-1.xx&_nc_gid=XzFyLWEgw6kweUSagc3ssQ&_nc_ss=7c2a8&oh=00_Af32XHDcyP2fZ7cJznBdvEGdIFKBEdlg9Jczq-QdT1jJbw&oe=69F9090A",
+            "attachment_media_urls": [],
+            "clientToken": null,
+            "explanationUrl": null,
+            "fb_id": "1266427202327913",
+            "graphQLAsyncParams": null,
+            "html_ad_id": "1266427202327913",
+            "images": [
+                "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/687040307_1266427205661246_8351181946701742075_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_ohc=1H0xWHzYfOUQ7kNvwE0Gosh&_nc_oc=AdqTQO8qUkr9ib6clM6aN8x9Bny52YSPe-JOKNtFxrQebTtPEQniYmvtdyvjGUaWQV8&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=XzFyLWEgw6kweUSagc3ssQ&_nc_ss=7c2a8&oh=00_Af1WowK27bG6yRP2FxRFWhlT-7vkOpxSpQTcN9I7cq-KKQ&oe=69F91007",
+                "https://www.facebook.com/photo/?fbid=1266427202327913&set=a.412710264366282"
+            ],
+            "landing_pages": [],
+            "objId": null,
+            "offsetX": 0,
+            "offsetY": 0,
+            "raw_ad": "{\"post_id\":\"1266427202327913\",\"id\":\"UzpfSUZTOjE6LTY5NzQ5NTg5ODkzNzEyMTkxODE6ZUp3VFc3WDcyL1BQQjdhY0Y5YVVFZnZ4NTFiZm84LzdXVVQ1eEE2ZCt2RHMwUUZkc1JrL1o4em5GYnZ5YmVaOFhrc1prWGZNYWd5bVlDRXpCakdHTktpaTFVeHVWOFNaZmpGZHVycnJ4OFBQKzFta0dUMm1OREF4cFJYQkRaUm1ZR0FRUDhpNklQb0JBd09EcXBBMG81c1VUTW9NN29CVUJsRVdIV25HUnI3TTR2amkxSkw0ekx6NHROVFVGRVpwQnV5UWdjZExqQ0ZHU0lpQkljbVVnUUVBTWxOT0NnPT0=\",\"message\":\"**Le secret d’une aubergine parfaite 🍆✨**\\n\\nChoisir une bonne aubergine fait toute la différence en cuisine. Un simple détail visuel permet de reconnaître facilement celle qui offrira une texture et un goût plus agréables.\\n\\n🔍 **Observer la base du fruit**\\nRegardez l’auréole située sous l’aubergine, c’est un indicateur clé de sa qualité.\\n\\n✅ **Privilégier une auréole circulaire**\\nUne petite forme ronde et bien définie indique une chair plus dense, avec moins de graines et un goût plus riche.\\n\\n❌ **Éviter une auréole allongée**\\nUne forme étirée ou fendue révèle une chair plus spongieuse, contenant davantage de graines et moins savoureuse.\\n\\n👀 **Vérifier l’aspect général**\\nUne peau lisse, brillante et ferme reste un bon complément pour confirmer la fraîcheur.\\n\\nCe repère simple permet de sélectionner facilement des aubergines plus savoureuses et d’améliorer naturellement la qualité de vos préparations.\",\"url\":\"https://www.facebook.com/astucesmamiefaciles/posts/pfbid0PVcrUvGbmgxeKDzmBwYp5iNJuCJYC18uYMxc2r8TNioE5nmoEDS3JVNisWhEXN22l\",\"author\":{\"name\":\"Astuces Mamie Faciles\",\"id\":\"100068819341985\",\"page\":\"https://www.facebook.com/astucesmamiefaciles\",\"type\":\"User\",\"profile_picture\":\"https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-1/361583505_590327253271248_3718213511808411580_n.jpg?stp=cp0_dst-jpg_s40x40_tt6&_nc_cat=1&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=gjt9N2kXPHwQ7kNvwG2owOe&_nc_oc=AdrQmNzEnUFMUiAe79x1FwLW2apzLWE9_zlP3pT7TfapsTRxCb5h61RNo84Gg0hjKOs&_nc_zt=24&_nc_ht=scontent-cdg4-1.xx&_nc_gid=XzFyLWEgw6kweUSagc3ssQ&_nc_ss=7c2a8&oh=00_Af32XHDcyP2fZ7cJznBdvEGdIFKBEdlg9Jczq-QdT1jJbw&oe=69F9090A\"},\"attachments\":[{\"type\":\"Photo\",\"id\":\"1266427202327913\",\"image\":{\"flexible\":null,\"large\":null,\"width\":null,\"height\":null},\"title\":null,\"destination_url\":null,\"fbclid\":null,\"action_links\":[]}],\"ad\":null}",
+            "serialized_frtp_identifiers": null,
+            "story_debug_info": null,
+            "timestamp": 1777549189303,
+            "type": "publicPost",
+            "user_id": null,
+            "video": false,
+            "video_id": "",
+            "videos": [],
+            "visible": true,
+            "visibleDuration": [
+                {
+                    "end_ts": null,
+                    "started_ts": 1777549189000
+                }
+            ],
+            "visible_fraction": 1
+        },
+        "seenAt": 1777549189000,
+        "source": "bootstrap",
+        "type": "Story",
+        "url": "https://www.facebook.com/astucesmamiefaciles/posts/pfbid0PVcrUvGbmgxeKDzmBwYp5iNJuCJYC18uYMxc2r8TNioE5nmoEDS3JVNisWhEXN22l",
+        "videos": [],
+        "visibleAt": 1777549189000,
+        "visibleDuration": [
+            {
+                "end_ts": null,
+                "started_ts": 1777549189000
+            }
+        ]
+    },
+    {
+        "ad": null,
+        "attachments": [],
+        "detectedAt": 1777549187623,
+        "domFoundAt": 1777549187623,
+        "id": "980000583117321",
+        "images": [
+            "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/687040307_1266427205661246_8351181946701742075_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_ohc=1H0xWHzYfOUQ7kNvwE0Gosh&_nc_oc=AdqTQO8qUkr9ib6clM6aN8x9Bny52YSPe-JOKNtFxrQebTtPEQniYmvtdyvjGUaWQV8&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=XzFyLWEgw6kweUSagc3ssQ&_nc_ss=7c2a8&oh=00_Af1WowK27bG6yRP2FxRFWhlT-7vkOpxSpQTcN9I7cq-KKQ&oe=69F91007",
+            "data:image/svg+xml,%3Csvg fill='none' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint0_linear_15251_63610)'/%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint1_radial_15251_63610)'/%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint2_radial_15251_63610)' fill-opacity='.5'/%3E%3Cpath d='M7.3014 3.8662a.6974.6974 0 0 1 .6974-.6977c.6742 0 1.2207.5465 1.2207 1.2206v1.7464a.101.101 0 0 0 .101.101h1.7953c.992 0 1.7232.9273 1.4917 1.892l-.4572 1.9047a2.301 2.301 0 0 1-2.2374 1.764H6.9185a.5752.5752 0 0 1-.5752-.5752V7.7384c0-.4168.097-.8278.2834-1.2005l.2856-.5712a3.6878 3.6878 0 0 0 .3893-1.6509l-.0002-.4496ZM4.367 7a.767.767 0 0 0-.7669.767v3.2598a.767.767 0 0 0 .767.767h.767a.3835.3835 0 0 0 .3835-.3835V7.3835A.3835.3835 0 0 0 5.134 7h-.767Z' fill='%23fff'/%3E%3Cdefs%3E%3CradialGradient id='paint1_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(90 .0005 8) scale(7.99958)'%3E%3Cstop offset='.5618' stop-color='%230866FF' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%230866FF' stop-opacity='.1'/%3E%3C/radialGradient%3E%3CradialGradient id='paint2_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(45 -4.5257 10.9237) scale(10.1818)'%3E%3Cstop offset='.3143' stop-color='%2302ADFC'/%3E%3Cstop offset='1' stop-color='%2302ADFC' stop-opacity='0'/%3E%3C/radialGradient%3E%3ClinearGradient id='paint0_linear_15251_63610' x1='2.3989' y1='2.3999' x2='13.5983' y2='13.5993' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2302ADFC'/%3E%3Cstop offset='.5' stop-color='%230866FF'/%3E%3Cstop offset='1' stop-color='%232B7EFF'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/svg%3E"
+        ],
+        "inDOM": true,
+        "isSponsored": true,
+        "landingPages": [
+            "https://www.facebook.com/stories/100533638917281/UzpfSVNDOjE2NjIwNzk5NzE0ODc2MjE=/?view_single=false&__cft__[0]=AZbkZUKoGIqa0hTezNMrZc8ypSohK3YjfDNxasD6IBUV7jZaHkxLTSsLzHXk62gRsrI6NFpceRT9b9obCGAQEXCaU-j30Il5aeueGuiK2pD0qz07fDkAUcqIbv08daq1Gbwpwgz04rTchZI2MvC9brUU1ZdFALVCQpUFU2ZQ6XBosg1vvOR1_zZHe20vfBQWb169fiQ63cO47sCQ7O1UNI5x&__tn__=%3C%3C%2CP-R",
+            "https://www.facebook.com/astucesmamiefaciles?__cft__[0]=AZbkZUKoGIqa0hTezNMrZc8ypSohK3YjfDNxasD6IBUV7jZaHkxLTSsLzHXk62gRsrI6NFpceRT9b9obCGAQEXCaU-j30Il5aeueGuiK2pD0qz07fDkAUcqIbv08daq1Gbwpwgz04rTchZI2MvC9brUU1ZdFALVCQpUFU2ZQ6XBosg1vvOR1_zZHe20vfBQWb169fiQ63cO47sCQ7O1UNI5x&__tn__=-UC%2CP-R",
+            "https://www.facebook.com/astucesmamiefaciles/posts/pfbid0PVcrUvGbmgxeKDzmBwYp5iNJuCJYC18uYMxc2r8TNioE5nmoEDS3JVNisWhEXN22l?__cft__[0]=AZbkZUKoGIqa0hTezNMrZc8ypSohK3YjfDNxasD6IBUV7jZaHkxLTSsLzHXk62gRsrI6NFpceRT9b9obCGAQEXCaU-j30Il5aeueGuiK2pD0qz07fDkAUcqIbv08daq1Gbwpwgz04rTchZI2MvC9brUU1ZdFALVCQpUFU2ZQ6XBosg1vvOR1_zZHe20vfBQWb169fiQ63cO47sCQ7O1UNI5x&__tn__=%2CO%2CP-R",
+            "https://www.facebook.com/",
+            "https://www.facebook.com/photo/?fbid=1266427202327913&set=a.412710264366282&__cft__[0]=AZbkZUKoGIqa0hTezNMrZc8ypSohK3YjfDNxasD6IBUV7jZaHkxLTSsLzHXk62gRsrI6NFpceRT9b9obCGAQEXCaU-j30Il5aeueGuiK2pD0qz07fDkAUcqIbv08daq1Gbwpwgz04rTchZI2MvC9brUU1ZdFALVCQpUFU2ZQ6XBosg1vvOR1_zZHe20vfBQWb169fiQ63cO47sCQ7O1UNI5x&__tn__=EH-R"
+        ],
+        "message": "**Le secret d’une aubergine parfaite **",
+        "messageHash": "p5snto",
+        "messagePreview": "**Le secret d’une aubergine parfaite **",
+        "post_id": "980000583117321",
+        "queued": true,
+        "queuedAt": 1777549189304,
+        "register_ad_payload": {
+            "adanalyst_ad_id": "980000583117321",
+            "advertiser_facebook_id": null,
+            "advertiser_facebook_page": null,
+            "advertiser_facebook_profile_pic": null,
+            "attachment_media_urls": [],
+            "clientToken": null,
+            "explanationUrl": null,
+            "fb_id": "980000583117321",
+            "graphQLAsyncParams": null,
+            "html_ad_id": "980000583117321",
+            "images": [],
+            "landing_pages": [],
+            "objId": "980000583117321",
+            "offsetX": 0,
+            "offsetY": 0,
+            "raw_ad": "{\"post_id\":\"980000583117321\",\"id\":\"980000583117321\",\"message\":\"**Le secret d’une aubergine parfaite **\",\"url\":\"https://www.facebook.com/astucesmamiefaciles/posts/pfbid0PVcrUvGbmgxeKDzmBwYp5iNJuCJYC18uYMxc2r8TNioE5nmoEDS3JVNisWhEXN22l\",\"author\":{\"name\":\"Astuces Mamie Faciles\",\"url\":null,\"id\":null},\"attachments\":[],\"ad\":null}",
+            "serialized_frtp_identifiers": null,
+            "story_debug_info": null,
+            "timestamp": 1777549189304,
+            "type": "frontAd",
+            "user_id": null,
+            "video": false,
+            "video_id": "",
+            "videos": [],
+            "visible": true,
+            "visibleDuration": [
+                {
+                    "end_ts": null,
+                    "started_ts": 1777549189000
+                },
+                {
+                    "end_ts": 1777549189701,
+                    "started_ts": 1777549189130
+                }
+            ],
+            "visible_fraction": 1
+        },
+        "seenAt": 1777549189000,
+        "source": "dom_standalone",
+        "url": "https://www.facebook.com/astucesmamiefaciles/posts/pfbid0PVcrUvGbmgxeKDzmBwYp5iNJuCJYC18uYMxc2r8TNioE5nmoEDS3JVNisWhEXN22l",
+        "visibleAt": 1777549189000,
+        "visibleDuration": [
+            {
+                "end_ts": null,
+                "started_ts": 1777549189000
+            },
+            {
+                "end_ts": 1777549189701,
+                "started_ts": 1777549189130
+            }
+        ]
+    },
+    {
+        "ad": null,
+        "attachments": [],
+        "detectedAt": 1777549187626,
+        "domFoundAt": 1777549187626,
+        "id": "990000857457831",
+        "images": [],
+        "inDOM": true,
+        "isSponsored": false,
+        "landingPages": [],
+        "message": "**Le secret d’une aubergine parfaite **",
+        "messageHash": "p5snto",
+        "messagePreview": "**Le secret d’une aubergine parfaite **",
+        "post_id": "990000857457831",
+        "queued": true,
+        "queuedAt": 1777549189305,
+        "register_ad_payload": {
+            "adanalyst_ad_id": "990000857457831",
+            "advertiser_facebook_id": null,
+            "advertiser_facebook_page": null,
+            "advertiser_facebook_profile_pic": null,
+            "attachment_media_urls": [],
+            "clientToken": null,
+            "explanationUrl": null,
+            "fb_id": "990000857457831",
+            "graphQLAsyncParams": null,
+            "html_ad_id": "990000857457831",
+            "images": [],
+            "landing_pages": [],
+            "objId": null,
+            "offsetX": 0,
+            "offsetY": 0,
+            "raw_ad": "{\"post_id\":\"990000857457831\",\"id\":\"990000857457831\",\"message\":\"**Le secret d’une aubergine parfaite **\",\"url\":\"\",\"author\":{\"name\":\"Unknown Author\",\"url\":null,\"id\":null},\"attachments\":[],\"ad\":null}",
+            "serialized_frtp_identifiers": null,
+            "story_debug_info": null,
+            "timestamp": 1777549189305,
+            "type": "publicPost",
+            "user_id": null,
+            "video": false,
+            "video_id": "",
+            "videos": [],
+            "visible": true,
+            "visibleDuration": [
+                {
+                    "end_ts": null,
+                    "started_ts": 1777549189000
+                }
+            ],
+            "visible_fraction": 1
+        },
+        "seenAt": 1777549189000,
+        "source": "dom_standalone",
+        "url": "",
+        "visibleAt": 1777549189000,
+        "visibleDuration": [
+            {
+                "end_ts": null,
+                "started_ts": 1777549189000
+            }
+        ]
+    },
+    {
+        "ad": null,
+        "attachments": [],
+        "detectedAt": 1777549188682,
+        "domFoundAt": 1777549188682,
+        "id": "990000358161818",
+        "images": [
+            "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/683126253_122278566416136183_7355034116393591840_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=109&ccb=1-7&_nc_sid=13d280&_nc_ohc=Ki8KWZ-5rbwQ7kNvwGH9Sk-&_nc_oc=Adr0EbbwLXtW0iPmtfBYUIpA5ts3OK5xBCtO7kiIpNUj-_uGVTYPD0sEI5ZwbG_EXSg&_nc_zt=23&_nc_ht=scontent-cdg4-2.xx&_nc_gid=_zqY7pGvhQ0TD5e-cPuwzg&_nc_ss=7c2a8&oh=00_Af39lge2tLNzlpFrybkwaK4RNXtEyj90Y5weaCGTqLT70Q&oe=69F8FD30"
+        ],
+        "inDOM": true,
+        "isSponsored": true,
+        "landingPages": [
+            "https://www.facebook.com/stories/122103789368136183/UzpfSVNDOjk5MDE2NTMyNjg3OTUwNw==/?view_single=false&__cft__[0]=AZbhsGx0b6-q4gL_2ELj-NFdBzc8Q3Rsweuk2pJ12O0gze_CUYdrW9ccIeF5NPUAiAqmNAuYcFEAcQUazVuT_mx1cXIPxyWlBmbENQ0DPeB39KGl8w5DO9UaG1yBsXe-UvB1oFFGza62_QkIHIe-P4PPrejqwRR8hRg-TAZMlahCumCAziKzflI78s5d0JxCaf_secdR5dhxf-931ZoPngJ0&__tn__=%3C%3C%2CP-R",
+            "https://www.facebook.com/profile.php?id=61554085494606&__cft__[0]=AZbhsGx0b6-q4gL_2ELj-NFdBzc8Q3Rsweuk2pJ12O0gze_CUYdrW9ccIeF5NPUAiAqmNAuYcFEAcQUazVuT_mx1cXIPxyWlBmbENQ0DPeB39KGl8w5DO9UaG1yBsXe-UvB1oFFGza62_QkIHIe-P4PPrejqwRR8hRg-TAZMlahCumCAziKzflI78s5d0JxCaf_secdR5dhxf-931ZoPngJ0&__tn__=-UC%2CP-R",
+            "https://www.facebook.com/permalink.php?story_fbid=pfbid0ifvYM6FBDWa1EBvfWpr1tFmwxhkPC8CXLtaMgdEKxBzQRYqLibRKPZVGnXzFPyq5l&id=61554085494606&__cft__[0]=AZbhsGx0b6-q4gL_2ELj-NFdBzc8Q3Rsweuk2pJ12O0gze_CUYdrW9ccIeF5NPUAiAqmNAuYcFEAcQUazVuT_mx1cXIPxyWlBmbENQ0DPeB39KGl8w5DO9UaG1yBsXe-UvB1oFFGza62_QkIHIe-P4PPrejqwRR8hRg-TAZMlahCumCAziKzflI78s5d0JxCaf_secdR5dhxf-931ZoPngJ0&__tn__=%2CO%2CP-R",
+            "https://www.facebook.com/",
+            "https://www.facebook.com/photo/?fbid=122278611236136183&set=a.122097836090136183&__cft__[0]=AZbhsGx0b6-q4gL_2ELj-NFdBzc8Q3Rsweuk2pJ12O0gze_CUYdrW9ccIeF5NPUAiAqmNAuYcFEAcQUazVuT_mx1cXIPxyWlBmbENQ0DPeB39KGl8w5DO9UaG1yBsXe-UvB1oFFGza62_QkIHIe-P4PPrejqwRR8hRg-TAZMlahCumCAziKzflI78s5d0JxCaf_secdR5dhxf-931ZoPngJ0&__tn__=EH-R"
+        ],
+        "message": "Comment protéger les murs de l’humidité avec ce conseil pour la maison",
+        "messageHash": "qmicwd",
+        "messagePreview": "Comment protéger les murs de l’humidité avec ce conseil pour la maison",
+        "post_id": "990000358161818",
+        "queued": true,
+        "queuedAt": 1777549189703,
+        "register_ad_payload": {
+            "adanalyst_ad_id": "990000358161818",
+            "advertiser_facebook_id": "61554085494606",
+            "advertiser_facebook_page": null,
+            "advertiser_facebook_profile_pic": null,
+            "attachment_media_urls": [],
+            "clientToken": null,
+            "explanationUrl": null,
+            "fb_id": "990000358161818",
+            "graphQLAsyncParams": null,
+            "html_ad_id": "990000358161818",
+            "images": [],
+            "landing_pages": [],
+            "objId": "990000358161818",
+            "offsetX": 0,
+            "offsetY": 0,
+            "raw_ad": "{\"post_id\":\"990000358161818\",\"id\":\"990000358161818\",\"message\":\"Comment protéger les murs de l’humidité avec ce conseil pour la maison\",\"url\":\"https://www.facebook.com/permalink.php?story_fbid=pfbid0ifvYM6FBDWa1EBvfWpr1tFmwxhkPC8CXLtaMgdEKxBzQRYqLibRKPZVGnXzFPyq5l&id=61554085494606\",\"author\":{\"name\":\"Astuces Rapides\",\"url\":\"https://www.facebook.com/profile.php?id=61554085494606\",\"id\":\"61554085494606\"},\"attachments\":[],\"ad\":null}",
+            "serialized_frtp_identifiers": null,
+            "story_debug_info": null,
+            "timestamp": 1777549189703,
+            "type": "frontAd",
+            "user_id": null,
+            "video": false,
+            "video_id": "",
+            "videos": [],
+            "visible": true,
+            "visibleDuration": [
+                {
+                    "end_ts": null,
+                    "started_ts": 1777549189000
+                },
+                {
+                    "end_ts": 1777549190206,
+                    "started_ts": 1777549189503
+                }
+            ],
+            "visible_fraction": 1
+        },
+        "seenAt": 1777549189000,
+        "source": "dom_standalone",
+        "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0ifvYM6FBDWa1EBvfWpr1tFmwxhkPC8CXLtaMgdEKxBzQRYqLibRKPZVGnXzFPyq5l&id=61554085494606",
+        "visibleAt": 1777549189000,
+        "visibleDuration": [
+            {
+                "end_ts": null,
+                "started_ts": 1777549189000
+            },
+            {
+                "end_ts": 1777549190206,
+                "started_ts": 1777549189503
+            }
+        ]
+    },
+    {
+        "ad": null,
+        "attachments": [],
+        "detectedAt": 1777549188916,
+        "domFoundAt": 1777549188916,
+        "id": "990000685518231",
+        "images": [
+            "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/683367936_1310907827888969_6178294550830389520_n.jpg?stp=cp6_dst-jpg_p526x296_tt6&_nc_cat=107&ccb=1-7&_nc_sid=e06c5d&_nc_ohc=ABdk-mCtvdYQ7kNvwEC-1y0&_nc_oc=AdrkA4veNNxRGY2ZlCaIpK2VZqVNLUX476Wx6dzKsx902QAACzxJns-V61lm_4jvPFs&_nc_zt=23&_nc_ht=scontent-cdg4-2.xx&_nc_gid=_zqY7pGvhQ0TD5e-cPuwzg&_nc_ss=7c2a8&oh=00_Af1oKRdQhuJWJy60D8Bw5uwvfZNlPVWKFZWzz4ScMtHXgw&oe=69F90493",
+            "data:image/svg+xml,%3Csvg fill='none' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint0_linear_15251_63610)'/%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint1_radial_15251_63610)'/%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint2_radial_15251_63610)' fill-opacity='.5'/%3E%3Cpath d='M7.3014 3.8662a.6974.6974 0 0 1 .6974-.6977c.6742 0 1.2207.5465 1.2207 1.2206v1.7464a.101.101 0 0 0 .101.101h1.7953c.992 0 1.7232.9273 1.4917 1.892l-.4572 1.9047a2.301 2.301 0 0 1-2.2374 1.764H6.9185a.5752.5752 0 0 1-.5752-.5752V7.7384c0-.4168.097-.8278.2834-1.2005l.2856-.5712a3.6878 3.6878 0 0 0 .3893-1.6509l-.0002-.4496ZM4.367 7a.767.767 0 0 0-.7669.767v3.2598a.767.767 0 0 0 .767.767h.767a.3835.3835 0 0 0 .3835-.3835V7.3835A.3835.3835 0 0 0 5.134 7h-.767Z' fill='%23fff'/%3E%3Cdefs%3E%3CradialGradient id='paint1_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(90 .0005 8) scale(7.99958)'%3E%3Cstop offset='.5618' stop-color='%230866FF' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%230866FF' stop-opacity='.1'/%3E%3C/radialGradient%3E%3CradialGradient id='paint2_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(45 -4.5257 10.9237) scale(10.1818)'%3E%3Cstop offset='.3143' stop-color='%2302ADFC'/%3E%3Cstop offset='1' stop-color='%2302ADFC' stop-opacity='0'/%3E%3C/radialGradient%3E%3ClinearGradient id='paint0_linear_15251_63610' x1='2.3989' y1='2.3999' x2='13.5983' y2='13.5993' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2302ADFC'/%3E%3Cstop offset='.5' stop-color='%230866FF'/%3E%3Cstop offset='1' stop-color='%232B7EFF'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/svg%3E",
+            "data:image/svg+xml,%3Csvg fill='none' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cg clip-path='url(%23clip0_15251_63610)'%3E%3Cpath d='M15.9963 8c0 4.4179-3.5811 7.9993-7.9986 7.9993-4.4176 0-7.9987-3.5814-7.9987-7.9992 0-4.4179 3.5811-7.9992 7.9987-7.9992 4.4175 0 7.9986 3.5813 7.9986 7.9992Z' fill='url(%23paint0_linear_15251_63610)'/%3E%3Cpath d='M15.9973 7.9992c0 4.4178-3.5811 7.9992-7.9987 7.9992C3.5811 15.9984 0 12.417 0 7.9992S3.5811 0 7.9986 0c4.4176 0 7.9987 3.5814 7.9987 7.9992Z' fill='url(%23paint1_radial_15251_63610)'/%3E%3Cpath d='M7.9996 5.9081c-.3528-.8845-1.1936-1.507-2.1748-1.507-1.4323 0-2.4254 1.328-2.4254 2.6797 0 2.2718 2.3938 4.0094 4.0816 5.1589.3168.2157.7205.2157 1.0373 0 1.6878-1.1495 4.0815-2.8871 4.0815-5.159 0-1.3517-.993-2.6796-2.4254-2.6796-.9811 0-1.822.6225-2.1748 1.507Z' fill='%23fff'/%3E%3C/g%3E%3Cdefs%3E%3CradialGradient id='paint1_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='matrix(0 7.9992 -7.99863 0 7.9986 7.9992)'%3E%3Cstop offset='.5637' stop-color='%23E11731' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23E11731' stop-opacity='.1'/%3E%3C/radialGradient%3E%3ClinearGradient id='paint0_linear_15251_63610' x1='2.3986' y1='2.4007' x2='13.5975' y2='13.5993' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23FF74AE'/%3E%3Cstop offset='.5001' stop-color='%23FA2E3E'/%3E%3Cstop offset='1' stop-color='%23FF5758'/%3E%3C/linearGradient%3E%3CclipPath id='clip0_15251_63610'%3E%3Cpath fill='%23fff' d='M-.001.0009h15.9992v15.9984H-.001z'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E"
+        ],
+        "inDOM": true,
+        "isSponsored": true,
+        "landingPages": [
+            "https://www.facebook.com/groups/869811343575910/?__cft__[0]=AZZOycqNPcSU9N2Paa7ErOoJ5Ut9meIRekvK0yqGCZ8leLHQEu9Hwm-9zjDzivu4MW7iCngMYKMvDWyfAGhSqetHNIHmaX5SvvGjASlCpBG1A3sfO4SNUIowz7P18BRPgDrkR8AJSzm7XyPD5Ua3FcseQIhe4OfF7HaE3gzFQfEJlXvhakHCQqhMHLgVFy5MN9WvE-8dotl1wCR4xEXWwFzs&__tn__=%3C%3C%2CP-R",
+            "https://www.facebook.com/groups/869811343575910/user/100069092911533/?__cft__[0]=AZZOycqNPcSU9N2Paa7ErOoJ5Ut9meIRekvK0yqGCZ8leLHQEu9Hwm-9zjDzivu4MW7iCngMYKMvDWyfAGhSqetHNIHmaX5SvvGjASlCpBG1A3sfO4SNUIowz7P18BRPgDrkR8AJSzm7XyPD5Ua3FcseQIhe4OfF7HaE3gzFQfEJlXvhakHCQqhMHLgVFy5MN9WvE-8dotl1wCR4xEXWwFzs&__tn__=%3C%2CP-R",
+            "https://www.facebook.com/groups/869811343575910/?__cft__[0]=AZZOycqNPcSU9N2Paa7ErOoJ5Ut9meIRekvK0yqGCZ8leLHQEu9Hwm-9zjDzivu4MW7iCngMYKMvDWyfAGhSqetHNIHmaX5SvvGjASlCpBG1A3sfO4SNUIowz7P18BRPgDrkR8AJSzm7XyPD5Ua3FcseQIhe4OfF7HaE3gzFQfEJlXvhakHCQqhMHLgVFy5MN9WvE-8dotl1wCR4xEXWwFzs&__tn__=-UC%2CP-R",
+            "https://www.facebook.com/groups/869811343575910/user/100069092911533/?__cft__[0]=AZZOycqNPcSU9N2Paa7ErOoJ5Ut9meIRekvK0yqGCZ8leLHQEu9Hwm-9zjDzivu4MW7iCngMYKMvDWyfAGhSqetHNIHmaX5SvvGjASlCpBG1A3sfO4SNUIowz7P18BRPgDrkR8AJSzm7XyPD5Ua3FcseQIhe4OfF7HaE3gzFQfEJlXvhakHCQqhMHLgVFy5MN9WvE-8dotl1wCR4xEXWwFzs&__tn__=%2CP-R",
+            "https://www.facebook.com/groups/869811343575910/?multi_permalinks=2123044248252607&hoisted_section_header_type=recently_seen&__cft__[0]=AZZOycqNPcSU9N2Paa7ErOoJ5Ut9meIRekvK0yqGCZ8leLHQEu9Hwm-9zjDzivu4MW7iCngMYKMvDWyfAGhSqetHNIHmaX5SvvGjASlCpBG1A3sfO4SNUIowz7P18BRPgDrkR8AJSzm7XyPD5Ua3FcseQIhe4OfF7HaE3gzFQfEJlXvhakHCQqhMHLgVFy5MN9WvE-8dotl1wCR4xEXWwFzs&__tn__=%2CO%2CP-R",
+            "https://www.facebook.com/",
+            "https://www.facebook.com/photo/?fbid=1310907821222303&set=gm.2123044248252607&idorvanity=869811343575910&__cft__[0]=AZZOycqNPcSU9N2Paa7ErOoJ5Ut9meIRekvK0yqGCZ8leLHQEu9Hwm-9zjDzivu4MW7iCngMYKMvDWyfAGhSqetHNIHmaX5SvvGjASlCpBG1A3sfO4SNUIowz7P18BRPgDrkR8AJSzm7XyPD5Ua3FcseQIhe4OfF7HaE3gzFQfEJlXvhakHCQqhMHLgVFy5MN9WvE-8dotl1wCR4xEXWwFzs&__tn__=EH-R"
+        ],
+        "message": "xxxx-losi qqn connaît le propriétaire",
+        "messageHash": "d7ih7a",
+        "messagePreview": "xxxx-losi qqn connaît le propriétaire",
+        "post_id": "990000685518231",
+        "queued": true,
+        "queuedAt": 1777549190000,
+        "register_ad_payload": {
+            "adanalyst_ad_id": "990000685518231",
+            "advertiser_facebook_id": null,
+            "advertiser_facebook_page": null,
+            "advertiser_facebook_profile_pic": null,
+            "attachment_media_urls": [],
+            "clientToken": null,
+            "explanationUrl": null,
+            "fb_id": "990000685518231",
+            "graphQLAsyncParams": null,
+            "html_ad_id": "990000685518231",
+            "images": [],
+            "landing_pages": [],
+            "objId": "990000685518231",
+            "offsetX": 0,
+            "offsetY": 0,
+            "raw_ad": "{\"post_id\":\"990000685518231\",\"id\":\"990000685518231\",\"message\":\"xxxx-losi qqn connaît le propriétaire\",\"url\":\"\",\"author\":{\"name\":\"Plaque Personnalisée\",\"url\":null,\"id\":null},\"attachments\":[],\"ad\":null}",
+            "serialized_frtp_identifiers": null,
+            "story_debug_info": null,
+            "timestamp": 1777549190000,
+            "type": "frontAd",
+            "user_id": null,
+            "video": false,
+            "video_id": "",
+            "videos": [],
+            "visible": true,
+            "visibleDuration": [
+                {
+                    "end_ts": null,
+                    "started_ts": 1777549190000
+                },
+                {
+                    "end_ts": 1777549190502,
+                    "started_ts": 1777549189899
+                }
+            ],
+            "visible_fraction": 1
+        },
+        "seenAt": 1777549190000,
+        "source": "dom_standalone",
+        "url": "",
+        "visibleAt": 1777549190000,
+        "visibleDuration": [
+            {
+                "end_ts": null,
+                "started_ts": 1777549190000
+            },
+            {
+                "end_ts": 1777549190502,
+                "started_ts": 1777549189899
+            }
+        ]
+    },
+    {
+        "ad": null,
+        "attachments": [],
+        "author": {
+            "id": "61583736501424",
+            "name": "Mon Jardin Naturel",
+            "url": "https://www.facebook.com/profile.php?id=61583736501424"
+        },
+        "detectedAt": 1777549191532,
+        "domFoundAt": 1777549191532,
+        "id": "990001857280953",
+        "images": [
+            "https://scontent-cdg6-1.xx.fbcdn.net/v/t39.30808-6/678148165_122106921897124550_1729989483793319351_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=103&ccb=1-7&_nc_sid=13d280&_nc_ohc=I1uujfDggOsQ7kNvwHjdvLu&_nc_oc=Adp55LmDQYjAy36x-U7XJJbZHPe09Z3cyyR136nwUi2-q01mbDLQN4MxI57CDmWSLSA&_nc_zt=23&_nc_ht=scontent-cdg6-1.xx&_nc_gid=_zqY7pGvhQ0TD5e-cPuwzg&_nc_ss=7c2a8&oh=00_Af1UqAJhUCRuMwNiZUAloIgdO7ASW1lYuIz08aU_kJafkw&oe=69F8FD49",
+            "data:image/svg+xml,%3Csvg fill='none' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint0_linear_15251_63610)'/%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint1_radial_15251_63610)'/%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint2_radial_15251_63610)' fill-opacity='.5'/%3E%3Cpath d='M7.3014 3.8662a.6974.6974 0 0 1 .6974-.6977c.6742 0 1.2207.5465 1.2207 1.2206v1.7464a.101.101 0 0 0 .101.101h1.7953c.992 0 1.7232.9273 1.4917 1.892l-.4572 1.9047a2.301 2.301 0 0 1-2.2374 1.764H6.9185a.5752.5752 0 0 1-.5752-.5752V7.7384c0-.4168.097-.8278.2834-1.2005l.2856-.5712a3.6878 3.6878 0 0 0 .3893-1.6509l-.0002-.4496ZM4.367 7a.767.767 0 0 0-.7669.767v3.2598a.767.767 0 0 0 .767.767h.767a.3835.3835 0 0 0 .3835-.3835V7.3835A.3835.3835 0 0 0 5.134 7h-.767Z' fill='%23fff'/%3E%3Cdefs%3E%3CradialGradient id='paint1_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(90 .0005 8) scale(7.99958)'%3E%3Cstop offset='.5618' stop-color='%230866FF' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%230866FF' stop-opacity='.1'/%3E%3C/radialGradient%3E%3CradialGradient id='paint2_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(45 -4.5257 10.9237) scale(10.1818)'%3E%3Cstop offset='.3143' stop-color='%2302ADFC'/%3E%3Cstop offset='1' stop-color='%2302ADFC' stop-opacity='0'/%3E%3C/radialGradient%3E%3ClinearGradient id='paint0_linear_15251_63610' x1='2.3989' y1='2.3999' x2='13.5983' y2='13.5993' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2302ADFC'/%3E%3Cstop offset='.5' stop-color='%230866FF'/%3E%3Cstop offset='1' stop-color='%232B7EFF'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/svg%3E",
+            "data:image/svg+xml,%3Csvg fill='none' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cg clip-path='url(%23clip0_15251_63610)'%3E%3Cpath d='M15.9943 8.0004c0 4.4181-3.5815 7.9996-7.9996 7.9996-4.418 0-7.9996-3.5815-7.9996-7.9996 0-4.418 3.5816-7.9995 7.9996-7.9995 4.4181 0 7.9996 3.5815 7.9996 7.9995Z' fill='url(%23paint0_linear_15251_63610)'/%3E%3Cpath d='M15.9973 7.9992c0 4.4178-3.5811 7.9992-7.9987 7.9992C3.5811 15.9984 0 12.417 0 7.9992S3.5811 0 7.9986 0c4.4176 0 7.9987 3.5814 7.9987 7.9992Z' fill='url(%23paint1_radial_15251_63610)'/%3E%3Cpath d='M15.9943 8.0004c0 4.4181-3.5815 7.9996-7.9996 7.9996-4.418 0-7.9996-3.5815-7.9996-7.9996 0-4.418 3.5816-7.9995 7.9996-7.9995 4.4181 0 7.9996 3.5815 7.9996 7.9995Z' fill='url(%23paint2_radial_15251_63610)' fill-opacity='.8'/%3E%3Cpath d='M12.3964 9.0861c0 1.1142-.3999 1.1142-1.1999 1.1142-.7999 0-1.2 0-1.2-1.1142 0-.8205.5373-1.4856 1.2-1.4856s1.1999.6651 1.1999 1.4856ZM5.9965 9.0861c0 1.1142-.4 1.1142-1.1999 1.1142-.8 0-1.2 0-1.2-1.1142 0-.8205.5373-1.4856 1.2-1.4856s1.2.6651 1.2 1.4856Z' fill='%231C1C1D'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M7.9946 11.2002c1.6447 0 2.3999 1.0936 2.3999 1.4122 0 .1095-.084.1877-.2248.1877-.3152 0-.752-.4-2.1751-.4s-1.8599.4-2.175.4c-.1409 0-.2249-.0782-.2249-.1877 0-.3186.7552-1.4122 2.3999-1.4122Z' fill='%234B280E'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M10.7861 6.3078a3.3942 3.3942 0 0 1 1.8777 1.0409.4.4 0 0 0 .5892-.5411 4.1944 4.1944 0 0 0-2.3202-1.2862.4.4 0 1 0-.1467.7864ZM5.206 6.3078a3.3946 3.3946 0 0 0-1.8777 1.0409.4.4 0 1 1-.5891-.5411 4.1946 4.1946 0 0 1 2.3202-1.2862.4.4 0 0 1 .1467.7864Z' fill='%23E0761A'/%3E%3Cg filter='url(%23filter0_i_15251_63610)'%3E%3Cpath d='M2.9952 11.2004c-.2647-.003-.435.1598-1.1536 1.3088-.3267.5231-.6468 1.0515-.6468 1.691 0 .994.8 1.7999 1.8 1.7999.9999 0 1.8008-.8 1.8008-1.7999 0-.6395-.32-1.1679-.6468-1.691-.7186-1.149-.8887-1.3118-1.1536-1.3088Z' fill='%2302ADFC' fill-opacity='.9'/%3E%3C/g%3E%3C/g%3E%3Cdefs%3E%3CradialGradient id='paint1_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='matrix(0 7.9992 -7.99863 0 7.9986 7.9992)'%3E%3Cstop offset='.5637' stop-color='%23FF5758' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23FF5758' stop-opacity='.1'/%3E%3C/radialGradient%3E%3CradialGradient id='paint2_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(45 -4.5287 10.9195) scale(10.1818)'%3E%3Cstop stop-color='%23FFF287'/%3E%3Cstop offset='1' stop-color='%23FFF287' stop-opacity='0'/%3E%3C/radialGradient%3E%3ClinearGradient id='paint0_linear_15251_63610' x1='2.395' y1='2.4007' x2='13.5944' y2='13.6001' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23FFF287'/%3E%3Cstop offset='1' stop-color='%23F68628'/%3E%3C/linearGradient%3E%3CclipPath id='clip0_15251_63610'%3E%3Cpath fill='%23fff' d='M-.003.0009h15.9993v15.9984H-.003z'/%3E%3C/clipPath%3E%3Cfilter id='filter0_i_15251_63610' x='1.1948' y='11.2003' width='3.6006' height='4.7998' filterUnits='userSpaceOnUse' color-interpolation-filters='sRGB'%3E%3CfeFlood flood-opacity='0' result='BackgroundImageFix'/%3E%3CfeBlend in='SourceGraphic' in2='BackgroundImageFix' result='shape'/%3E%3CfeColorMatrix in='SourceAlpha' values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0' result='hardAlpha'/%3E%3CfeOffset/%3E%3CfeGaussianBlur stdDeviation='1.1999'/%3E%3CfeComposite in2='hardAlpha' operator='arithmetic' k2='-1' k3='1'/%3E%3CfeColorMatrix values='0 0 0 0 0.278431 0 0 0 0 0.196078 0 0 0 0 0.952941 0 0 0 0.1 0'/%3E%3CfeBlend in2='shape' result='effect1_innerShadow_15251_63610'/%3E%3C/filter%3E%3C/defs%3E%3C/svg%3E",
+            "data:image/svg+xml,%3Csvg fill='none' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cg clip-path='url(%23clip0_15251_63610)'%3E%3Cpath d='M15.9982 7.9998c0 4.4181-3.5815 7.9996-7.9996 7.9996-4.418 0-7.9996-3.5815-7.9996-7.9996 0-4.418 3.5816-7.9996 7.9996-7.9996 4.4181 0 7.9996 3.5816 7.9996 7.9996Z' fill='url(%23paint0_linear_15251_63610)'/%3E%3Cpath d='M15.9973 7.9992c0 4.4178-3.5811 7.9992-7.9987 7.9992C3.5811 15.9984 0 12.417 0 7.9992S3.5811 0 7.9986 0c4.4176 0 7.9987 3.5814 7.9987 7.9992Z' fill='url(%23paint1_radial_15251_63610)'/%3E%3Cmask id='mask0_15251_63610' style='mask-type:alpha' maskUnits='userSpaceOnUse' x='6' y='13' width='8' height='3'%3E%3Cpath d='M13.6084 13.7029c-1.4438 1.4203-3.4244 2.2965-5.6097 2.2965a8.0393 8.0393 0 0 1-1.5715-.1543c.6898-.2867 1.6353-.7368 2.5437-1.3171 1.2793.5295 3.4828.2415 4.6285-.8326l.009.0075Z' fill='%23D9D9D9'/%3E%3C/mask%3E%3Cg mask='url(%23mask0_15251_63610)'%3E%3Cpath d='M15.9982 7.9998c0 4.4181-3.5815 7.9996-7.9996 7.9996-4.418 0-7.9996-3.5815-7.9996-7.9996 0-4.418 3.5816-7.9996 7.9996-7.9996 4.4181 0 7.9996 3.5816 7.9996 7.9996Z' fill='url(%23paint2_linear_15251_63610)'/%3E%3C/g%3E%3Cpath d='M15.9962 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S-.003 12.4176-.003 7.9996 3.5786 0 7.9967 0c4.418 0 7.9995 3.5815 7.9995 7.9996Z' fill='url(%23paint3_radial_15251_63610)'/%3E%3Cpath d='M15.9962 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S-.003 12.4176-.003 7.9996 3.5786 0 7.9967 0c4.418 0 7.9995 3.5815 7.9995 7.9996Z' fill='url(%23paint4_radial_15251_63610)'/%3E%3Cpath d='M15.9962 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S-.003 12.4176-.003 7.9996 3.5786 0 7.9967 0c4.418 0 7.9995 3.5815 7.9995 7.9996Z' fill='url(%23paint5_radial_15251_63610)' style='mix-blend-mode:multiply'/%3E%3Cpath d='M15.9962 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S-.003 12.4176-.003 7.9996 3.5786 0 7.9967 0c4.418 0 7.9995 3.5815 7.9995 7.9996Z' fill='url(%23paint6_radial_15251_63610)' style='mix-blend-mode:multiply'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M9.585 7.7886a.499.499 0 0 1 .026.0043 2.849 2.849 0 0 1 1.8175 1.202 2.8423 2.8423 0 0 1 .4349 2.1333c-.2461 1.2665-1.3291 2.3137-2.4304 3.0886-1.1259.7923-2.3926 1.3839-3.2016 1.7072a1.08 1.08 0 0 1-1.151-.2237c-.6289-.6028-1.5818-1.6259-2.329-2.7823-.7307-1.131-1.3425-2.5076-1.0963-3.7741a2.8425 2.8425 0 0 1 1.2024-1.8151 2.8492 2.8492 0 0 1 2.1354-.4336.5086.5086 0 0 1 .0268.006 2.9735 2.9735 0 0 1 1.4594.8686c.1647.1788.3813.4853.5716.8626.3155-.2781.6296-.482.8526-.5874a2.9734 2.9734 0 0 1 1.6817-.2564Z' fill='url(%23paint7_radial_15251_63610)'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M9.585 7.7886a.499.499 0 0 1 .026.0043 2.849 2.849 0 0 1 1.8175 1.202 2.8423 2.8423 0 0 1 .4349 2.1333c-.2461 1.2665-1.3291 2.3137-2.4304 3.0886-1.1259.7923-2.3926 1.3839-3.2016 1.7072a1.08 1.08 0 0 1-1.151-.2237c-.6289-.6028-1.5818-1.6259-2.329-2.7823-.7307-1.131-1.3425-2.5076-1.0963-3.7741a2.8425 2.8425 0 0 1 1.2024-1.8151 2.8492 2.8492 0 0 1 2.1354-.4336.5086.5086 0 0 1 .0268.006 2.9735 2.9735 0 0 1 1.4594.8686c.1647.1788.3813.4853.5716.8626.3155-.2781.6296-.482.8526-.5874a2.9734 2.9734 0 0 1 1.6817-.2564Z' fill='url(%23paint8_radial_15251_63610)'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M9.585 7.7886a.499.499 0 0 1 .026.0043 2.849 2.849 0 0 1 1.8175 1.202 2.8423 2.8423 0 0 1 .4349 2.1333c-.2461 1.2665-1.3291 2.3137-2.4304 3.0886-1.1259.7923-2.3926 1.3839-3.2016 1.7072a1.08 1.08 0 0 1-1.151-.2237c-.6289-.6028-1.5818-1.6259-2.329-2.7823-.7307-1.131-1.3425-2.5076-1.0963-3.7741a2.8425 2.8425 0 0 1 1.2024-1.8151 2.8492 2.8492 0 0 1 2.1354-.4336.5086.5086 0 0 1 .0268.006 2.9735 2.9735 0 0 1 1.4594.8686c.1647.1788.3813.4853.5716.8626.3155-.2781.6296-.482.8526-.5874a2.9734 2.9734 0 0 1 1.6817-.2564Z' fill='url(%23paint9_radial_15251_63610)'/%3E%3Cmask id='mask1_15251_63610' style='mask-type:alpha' maskUnits='userSpaceOnUse' x='-1' y='0' width='17' height='16'%3E%3Ccircle cx='7.9976' cy='7.9998' r='7.9996' fill='%23fff'/%3E%3C/mask%3E%3Cg mask='url(%23mask1_15251_63610)' fill-rule='evenodd' clip-rule='evenodd'%3E%3Cpath d='M1.3582 7.6194C.836 7.1064.318 7.2994.118 7.9596c-.2.6603-.0513 2.4955 1.0427 3.3962 2.752 2.2662 5.464.8613 5.5191-.5247.0498-1.2472-1.3555-1.113-1.8127-1.0879-.0311.0018-.0445-.0412-.0178-.0582.096-.0626.2535-.1719.4198-.3125.3594-.3044.1753-.8326-.3264-.6813-.0756.0224-1.2968.3904-2.0707.0967-.8778-.3331-.9828-.6465-1.5147-1.1685h.0009Z' fill='%23FFF287'/%3E%3Cpath d='M1.3582 7.6194C.836 7.1064.318 7.2994.118 7.9596c-.2.6603-.0513 2.4955 1.0427 3.3962 2.752 2.2662 5.464.8613 5.5191-.5247.0498-1.2472-1.3555-1.113-1.8127-1.0879-.0311.0018-.0445-.0412-.0178-.0582.096-.0626.2535-.1719.4198-.3125.3594-.3044.1753-.8326-.3264-.6813-.0756.0224-1.2968.3904-2.0707.0967-.8778-.3331-.9828-.6465-1.5147-1.1685h.0009Z' fill='url(%23paint10_linear_15251_63610)'/%3E%3Cpath d='M1.3582 7.6194C.836 7.1064.318 7.2994.118 7.9596c-.2.6603-.0513 2.4955 1.0427 3.3962 2.752 2.2662 5.464.8613 5.5191-.5247.0498-1.2472-1.3555-1.113-1.8127-1.0879-.0311.0018-.0445-.0412-.0178-.0582.096-.0626.2535-.1719.4198-.3125.3594-.3044.1753-.8326-.3264-.6813-.0756.0224-1.2968.3904-2.0707.0967-.8778-.3331-.9828-.6465-1.5147-1.1685h.0009Z' fill='url(%23paint11_radial_15251_63610)' fill-opacity='.6'/%3E%3Cpath d='M1.3582 7.6194C.836 7.1064.318 7.2994.118 7.9596c-.2.6603-.0513 2.4955 1.0427 3.3962 2.752 2.2662 5.464.8613 5.5191-.5247.0498-1.2472-1.3555-1.113-1.8127-1.0879-.0311.0018-.0445-.0412-.0178-.0582.096-.0626.2535-.1719.4198-.3125.3594-.3044.1753-.8326-.3264-.6813-.0756.0224-1.2968.3904-2.0707.0967-.8778-.3331-.9828-.6465-1.5147-1.1685h.0009Z' fill='url(%23paint12_radial_15251_63610)'/%3E%3Cpath d='M1.3582 7.6194C.836 7.1064.318 7.2994.118 7.9596c-.2.6603-.0513 2.4955 1.0427 3.3962 2.752 2.2662 5.464.8613 5.5191-.5247.0498-1.2472-1.3555-1.113-1.8127-1.0879-.0311.0018-.0445-.0412-.0178-.0582.096-.0626.2535-.1719.4198-.3125.3594-.3044.1753-.8326-.3264-.6813-.0756.0224-1.2968.3904-2.0707.0967-.8778-.3331-.9828-.6465-1.5147-1.1685h.0009Z' fill='url(%23paint13_radial_15251_63610)'/%3E%3Cpath d='M1.3582 7.6194C.836 7.1064.318 7.2994.118 7.9596c-.2.6603-.0513 2.4955 1.0427 3.3962 2.752 2.2662 5.464.8613 5.5191-.5247.0498-1.2472-1.3555-1.113-1.8127-1.0879-.0311.0018-.0445-.0412-.0178-.0582.096-.0626.2535-.1719.4198-.3125.3594-.3044.1753-.8326-.3264-.6813-.0756.0224-1.2968.3904-2.0707.0967-.8778-.3331-.9828-.6465-1.5147-1.1685h.0009Z' fill='url(%23paint14_radial_15251_63610)'/%3E%3Cpath d='M14.2827 7.7582c.3146-.7585.3146-1.1585.7145-1.3585.4-.2 1 .4 1 1.6 0 1.9998-.8 4.1957-2.3999 5.6956-1.5999 1.5-5.2626 1.4668-5.5906-.1845-.2727-1.3695 1.1697-1.5059 1.6332-1.571.0316-.0045.0378-.0542.0079-.0677a4.201 4.201 0 0 1-.474-.262c-.4125-.2647-.3176-.8871.211-.8203.599.0913 1.3395.2647 1.978.1997 1.8469-.1888 2.6052-2.4728 2.9199-3.2313Z' fill='%23FFF287'/%3E%3Cpath d='M14.2827 7.7582c.3146-.7585.3146-1.1585.7145-1.3585.4-.2 1 .4 1 1.6 0 1.9998-.8 4.1957-2.3999 5.6956-1.5999 1.5-5.2626 1.4668-5.5906-.1845-.2727-1.3695 1.1697-1.5059 1.6332-1.571.0316-.0045.0378-.0542.0079-.0677a4.201 4.201 0 0 1-.474-.262c-.4125-.2647-.3176-.8871.211-.8203.599.0913 1.3395.2647 1.978.1997 1.8469-.1888 2.6052-2.4728 2.9199-3.2313Z' fill='url(%23paint15_linear_15251_63610)'/%3E%3Cpath d='M14.2827 7.7582c.3146-.7585.3146-1.1585.7145-1.3585.4-.2 1 .4 1 1.6 0 1.9998-.8 4.1957-2.3999 5.6956-1.5999 1.5-5.2626 1.4668-5.5906-.1845-.2727-1.3695 1.1697-1.5059 1.6332-1.571.0316-.0045.0378-.0542.0079-.0677a4.201 4.201 0 0 1-.474-.262c-.4125-.2647-.3176-.8871.211-.8203.599.0913 1.3395.2647 1.978.1997 1.8469-.1888 2.6052-2.4728 2.9199-3.2313Z' fill='url(%23paint16_radial_15251_63610)' fill-opacity='.8'/%3E%3Cpath d='M14.2827 7.7582c.3146-.7585.3146-1.1585.7145-1.3585.4-.2 1 .4 1 1.6 0 1.9998-.8 4.1957-2.3999 5.6956-1.5999 1.5-5.2626 1.4668-5.5906-.1845-.2727-1.3695 1.1697-1.5059 1.6332-1.571.0316-.0045.0378-.0542.0079-.0677a4.201 4.201 0 0 1-.474-.262c-.4125-.2647-.3176-.8871.211-.8203.599.0913 1.3395.2647 1.978.1997 1.8469-.1888 2.6052-2.4728 2.9199-3.2313Z' fill='url(%23paint17_radial_15251_63610)'/%3E%3Cpath d='M14.2827 7.7582c.3146-.7585.3146-1.1585.7145-1.3585.4-.2 1 .4 1 1.6 0 1.9998-.8 4.1957-2.3999 5.6956-1.5999 1.5-5.2626 1.4668-5.5906-.1845-.2727-1.3695 1.1697-1.5059 1.6332-1.571.0316-.0045.0378-.0542.0079-.0677a4.201 4.201 0 0 1-.474-.262c-.4125-.2647-.3176-.8871.211-.8203.599.0913 1.3395.2647 1.978.1997 1.8469-.1888 2.6052-2.4728 2.9199-3.2313Z' fill='url(%23paint18_radial_15251_63610)' fill-opacity='.9' style='mix-blend-mode:screen'/%3E%3C/g%3E%3Cpath d='M7.9977 6.8c.71 0 1.1723-.1164 1.4952-.2331.3063-.1108.4-.4145.08-.4762C9.277 6.0336 8.7886 6 7.9978 6c-.7753 0-1.2813.0342-1.5903.0988-.3085.0646-.2235.3583.073.4654.3257.1177.8017.2357 1.5173.2357Z' fill='%234B280E'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M10.1526 2.0928a3.3945 3.3945 0 0 1 2.0299.699.4.4 0 0 0 .4863-.6352 4.1946 4.1946 0 0 0-2.5083-.8637.4.4 0 1 0-.0079.7999ZM5.843 2.0928a3.3946 3.3946 0 0 0-2.03.699.4.4 0 1 1-.4862-.6352 4.1945 4.1945 0 0 1 2.5083-.8637.4.4 0 1 1 .008.7999Z' fill='%23E0761A'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M9.998 4.3577c-.001.7238.483.936 1.1999 1.023.7099.1024 1.1878-.1978 1.1998-1.023.01-.6941-.3809-1.5413-1.1998-1.5575-.8189.0162-1.1999.8634-1.1999 1.5575ZM5.998 4.3577c.001.7238-.483.936-1.1998 1.023-.71.1024-1.1879-.1978-1.1999-1.023-.01-.6941.381-1.5413 1.1999-1.5575.8189.0162 1.1998.8634 1.1998 1.5575Z' fill='%231C1C1D'/%3E%3C/g%3E%3Cdefs%3E%3CradialGradient id='paint1_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='matrix(0 7.9992 -7.99863 0 7.9986 7.9992)'%3E%3Cstop offset='.5637' stop-color='%23FF5758' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23FF5758' stop-opacity='.1'/%3E%3C/radialGradient%3E%3CradialGradient id='paint3_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='matrix(.1233 -1.60292 4.45604 .34277 10.6837 13.9363)'%3E%3Cstop stop-color='%23791119' stop-opacity='.7'/%3E%3Cstop offset='1' stop-color='%23791119' stop-opacity='0'/%3E%3C/radialGradient%3E%3CradialGradient id='paint4_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='matrix(.92919 2.03556 -13.3287 6.08424 12.9748 11.0609)'%3E%3Cstop stop-color='%23791119' stop-opacity='.08'/%3E%3Cstop offset='1' stop-color='%23791119' stop-opacity='0'/%3E%3C/radialGradient%3E%3CradialGradient id='paint5_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='matrix(.5 -2 2.8733 .71832 3 11)'%3E%3Cstop offset='.2088' stop-color='%23791119' stop-opacity='.4'/%3E%3Cstop offset='1' stop-color='%23791119' stop-opacity='0'/%3E%3C/radialGradient%3E%3CradialGradient id='paint6_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='matrix(1.5 -1 1.43665 2.15497 2 10)'%3E%3Cstop offset='.2088' stop-color='%23791119' stop-opacity='.3'/%3E%3Cstop offset='1' stop-color='%23791119' stop-opacity='0'/%3E%3C/radialGradient%3E%3CradialGradient id='paint7_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='matrix(4.40005 5.20005 -6.1455 5.20005 4.198 9.4003)'%3E%3Cstop offset='.3729' stop-color='%23FA2E3E'/%3E%3Cstop offset='.9266' stop-color='%23E11731'/%3E%3C/radialGradient%3E%3CradialGradient id='paint8_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(-92.693 7.5086 3.7543) scale(1.72921 2.52467)'%3E%3Cstop stop-color='%23791119' stop-opacity='.9'/%3E%3Cstop offset='1' stop-color='%23791119' stop-opacity='0'/%3E%3C/radialGradient%3E%3CradialGradient id='paint9_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(-65.627 15.8732 -.8589) scale(1.94093 2.8338)'%3E%3Cstop stop-color='%23791119' stop-opacity='.9'/%3E%3Cstop offset='1' stop-color='%23791119' stop-opacity='0'/%3E%3C/radialGradient%3E%3CradialGradient id='paint11_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(93.472 -1.1146 5.8598) scale(4.00047 8.84233)'%3E%3Cstop stop-color='%23FFF287' stop-opacity='0'/%3E%3Cstop offset='.9846' stop-color='%23FF5758' stop-opacity='.8'/%3E%3C/radialGradient%3E%3CradialGradient id='paint12_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(131.396 1.7386 3.9605) scale(7.98139 8.42047)'%3E%3Cstop offset='.6481' stop-color='%23FFE480'/%3E%3Cstop offset='.9167' stop-color='%23FFE480' stop-opacity='0'/%3E%3C/radialGradient%3E%3CradialGradient id='paint13_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(115.036 -.1572 5.1636) scale(5.20766 4.5125)'%3E%3Cstop offset='.9124' stop-color='%23FFE480' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23FFE480'/%3E%3C/radialGradient%3E%3CradialGradient id='paint14_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='matrix(1.35706 1.5577 -3.27818 2.85593 0 7.5)'%3E%3Cstop stop-color='%23FFE483'/%3E%3Cstop offset='.9167' stop-color='%23FFEB80' stop-opacity='0'/%3E%3C/radialGradient%3E%3CradialGradient id='paint16_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(38.267 -7.741 22.3658) scale(3.94718 18.9414)'%3E%3Cstop stop-color='%23FFF287' stop-opacity='0'/%3E%3Cstop offset='.7371' stop-color='%23FF5758' stop-opacity='.4'/%3E%3C/radialGradient%3E%3CradialGradient id='paint17_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='matrix(2.93607 2.57398 -2.89968 3.3076 10.5 8)'%3E%3Cstop offset='.8254' stop-color='%23FFE480'/%3E%3Cstop offset='1' stop-color='%23FFE480' stop-opacity='0'/%3E%3C/radialGradient%3E%3CradialGradient id='paint18_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='matrix(4.5 2.5 -3.1886 5.73949 11 9)'%3E%3Cstop offset='.897' stop-color='%23FFE480' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23FFE480'/%3E%3C/radialGradient%3E%3ClinearGradient id='paint0_linear_15251_63610' x1='2.5019' y1='2.5002' x2='16.002' y2='16.0002' gradientUnits='userSpaceOnUse'%3E%3Cstop offset='.2619' stop-color='%23FFF287'/%3E%3Cstop offset='1' stop-color='%23F68628'/%3E%3C/linearGradient%3E%3ClinearGradient id='paint2_linear_15251_63610' x1='10' y1='14.5002' x2='10' y2='17.0002' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23FFF287' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23FFF287'/%3E%3C/linearGradient%3E%3ClinearGradient id='paint10_linear_15251_63610' x1='4.4115' y1='6.5983' x2='2.6271' y2='9.9854' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23FFF287'/%3E%3Cstop offset='1' stop-color='%23F68628' stop-opacity='.3'/%3E%3C/linearGradient%3E%3ClinearGradient id='paint15_linear_15251_63610' x1='7.9727' y1='12.4766' x2='18.4483' y2='13.8876' gradientUnits='userSpaceOnUse'%3E%3Cstop offset='.0835' stop-color='%23FFF287'/%3E%3Cstop offset='1' stop-color='%23F68628'/%3E%3C/linearGradient%3E%3CclipPath id='clip0_15251_63610'%3E%3Cpath fill='%23fff' d='M-.002.0002h16.0001v16h-16z'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E"
+        ],
+        "inDOM": true,
+        "isSponsored": true,
+        "landingPages": [
+            "https://www.facebook.com/profile.php?id=61583736501424&__cft__[0]=AZbY8HHyBDbGYMx5S7TO2hcmDQfnIqTIZcgK2G2_PrIKq21hyku_RsSRr3wMCH1DxWUwfNhoUCSAkl5R27ZgirQauBUd1hC1DP1d4yyo-4KHk4HdhfHAJP1-rUTF4EzyX22yYOfNoiZ-dPdAJ4w4RkypO-EJp7HLXKDSakLWSGs-zOHREuuLXG4j4VpU_B9hF06e1-6NyGLTFBNcTGCH08VE&__tn__=%3C%3C%2CP-R",
+            "https://www.facebook.com/profile.php?id=61583736501424&__cft__[0]=AZbY8HHyBDbGYMx5S7TO2hcmDQfnIqTIZcgK2G2_PrIKq21hyku_RsSRr3wMCH1DxWUwfNhoUCSAkl5R27ZgirQauBUd1hC1DP1d4yyo-4KHk4HdhfHAJP1-rUTF4EzyX22yYOfNoiZ-dPdAJ4w4RkypO-EJp7HLXKDSakLWSGs-zOHREuuLXG4j4VpU_B9hF06e1-6NyGLTFBNcTGCH08VE&__tn__=-UC%2CP-R",
+            "https://www.facebook.com/permalink.php?story_fbid=pfbid0fZjA9va9FAEWrZ1W5a7dwpdG3E3ib6gzpeanBtudN72mgbagEuFpaFZ7TpficD4Bl&id=61583736501424&__cft__[0]=AZbY8HHyBDbGYMx5S7TO2hcmDQfnIqTIZcgK2G2_PrIKq21hyku_RsSRr3wMCH1DxWUwfNhoUCSAkl5R27ZgirQauBUd1hC1DP1d4yyo-4KHk4HdhfHAJP1-rUTF4EzyX22yYOfNoiZ-dPdAJ4w4RkypO-EJp7HLXKDSakLWSGs-zOHREuuLXG4j4VpU_B9hF06e1-6NyGLTFBNcTGCH08VE&__tn__=%2CO%2CP-R",
+            "https://www.facebook.com/",
+            "https://www.facebook.com/photo/?fbid=122107393329124550&set=a.122094396429124550&__cft__[0]=AZbY8HHyBDbGYMx5S7TO2hcmDQfnIqTIZcgK2G2_PrIKq21hyku_RsSRr3wMCH1DxWUwfNhoUCSAkl5R27ZgirQauBUd1hC1DP1d4yyo-4KHk4HdhfHAJP1-rUTF4EzyX22yYOfNoiZ-dPdAJ4w4RkypO-EJp7HLXKDSakLWSGs-zOHREuuLXG4j4VpU_B9hF06e1-6NyGLTFBNcTGCH08VE&__tn__=EH-R"
+        ],
+        "message": "Ce n’est qu’une abeille…jusqu’à ce qu’elle disparaisse.",
+        "post_id": "990001857280953",
+        "queuedAt": 1777549191532,
+        "source": "dom_standalone",
+        "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0fZjA9va9FAEWrZ1W5a7dwpdG3E3ib6gzpeanBtudN72mgbagEuFpaFZ7TpficD4Bl&id=61583736501424"
+    },
+    {
+        "ad": null,
+        "attachments": [],
+        "author": {
+            "id": null,
+            "name": "Mon Jardin & Ma maison",
+            "url": null
+        },
+        "detectedAt": 1777549191535,
+        "domFoundAt": 1777549191535,
+        "id": "980001329111318",
+        "images": [
+            "https://scontent-cdg6-1.xx.fbcdn.net/v/t39.30808-6/681370083_1570018778462017_1417569873255364853_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=1-7&_nc_sid=13d280&_nc_ohc=QlvlgQChRNUQ7kNvwEwmLQ-&_nc_oc=AdqGu2hHUuAoUPGrGZNA7UpeMhwlydWyLo6rOBg83w8SBws_G5MU4EHVkGSY7jJ2oRw&_nc_zt=23&_nc_ht=scontent-cdg6-1.xx&_nc_gid=_zqY7pGvhQ0TD5e-cPuwzg&_nc_ss=7c2a8&oh=00_Af0He6AJyFC79QQhE7FEelB3z7zvPUx5RklxsfSAbNN61A&oe=69F92C53",
+            "data:image/svg+xml,%3Csvg fill='none' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint0_linear_15251_63610)'/%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint1_radial_15251_63610)'/%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint2_radial_15251_63610)' fill-opacity='.5'/%3E%3Cpath d='M7.3014 3.8662a.6974.6974 0 0 1 .6974-.6977c.6742 0 1.2207.5465 1.2207 1.2206v1.7464a.101.101 0 0 0 .101.101h1.7953c.992 0 1.7232.9273 1.4917 1.892l-.4572 1.9047a2.301 2.301 0 0 1-2.2374 1.764H6.9185a.5752.5752 0 0 1-.5752-.5752V7.7384c0-.4168.097-.8278.2834-1.2005l.2856-.5712a3.6878 3.6878 0 0 0 .3893-1.6509l-.0002-.4496ZM4.367 7a.767.767 0 0 0-.7669.767v3.2598a.767.767 0 0 0 .767.767h.767a.3835.3835 0 0 0 .3835-.3835V7.3835A.3835.3835 0 0 0 5.134 7h-.767Z' fill='%23fff'/%3E%3Cdefs%3E%3CradialGradient id='paint1_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(90 .0005 8) scale(7.99958)'%3E%3Cstop offset='.5618' stop-color='%230866FF' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%230866FF' stop-opacity='.1'/%3E%3C/radialGradient%3E%3CradialGradient id='paint2_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(45 -4.5257 10.9237) scale(10.1818)'%3E%3Cstop offset='.3143' stop-color='%2302ADFC'/%3E%3Cstop offset='1' stop-color='%2302ADFC' stop-opacity='0'/%3E%3C/radialGradient%3E%3ClinearGradient id='paint0_linear_15251_63610' x1='2.3989' y1='2.3999' x2='13.5983' y2='13.5993' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2302ADFC'/%3E%3Cstop offset='.5' stop-color='%230866FF'/%3E%3Cstop offset='1' stop-color='%232B7EFF'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/svg%3E",
+            "data:image/svg+xml,%3Csvg fill='none' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cg clip-path='url(%23clip0_15251_63610)'%3E%3Cpath d='M15.9972 7.9996c0 4.418-3.5815 7.9996-7.9996 7.9996-4.418 0-7.9996-3.5816-7.9996-7.9996S3.5796 0 7.9976 0c4.4181 0 7.9996 3.5815 7.9996 7.9996Z' fill='url(%23paint0_linear_15251_63610)'/%3E%3Cpath d='M15.9973 7.9992c0 4.4178-3.5811 7.9992-7.9987 7.9992C3.5811 15.9984 0 12.417 0 7.9992S3.5811 0 7.9986 0c4.4176 0 7.9987 3.5814 7.9987 7.9992Z' fill='url(%23paint1_radial_15251_63610)'/%3E%3Cpath d='M15.9972 7.9996c0 4.418-3.5815 7.9996-7.9996 7.9996-4.418 0-7.9996-3.5816-7.9996-7.9996S3.5796 0 7.9976 0c4.4181 0 7.9996 3.5815 7.9996 7.9996Z' fill='url(%23paint2_radial_15251_63610)' fill-opacity='.8'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M5.6144 10.8866c.159-1.8461 1.127-2.887 2.382-2.887 1.2551 0 2.2231 1.0418 2.3822 2.887.1591 1.8461-.7342 3.1127-2.3821 3.1127-1.648 0-2.5412-1.2666-2.3821-3.1127Z' fill='%234B280E'/%3E%3Cellipse cx='11.1978' cy='5.6997' rx='1.3999' ry='1.6999' fill='%231C1C1D'/%3E%3Cellipse cx='4.7979' cy='5.6997' rx='1.3999' ry='1.6999' fill='%231C1C1D'/%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M12.3528 3.166a1.4744 1.4744 0 0 0-1.8591-.3279.4.4 0 1 1-.3976-.6941c.9527-.5457 2.1592-.333 2.8678.5056a.4.4 0 0 1-.6111.5163ZM5.4998 2.8381a1.4744 1.4744 0 0 0-1.859.3278.4.4 0 0 1-.6111-.5162c.7085-.8387 1.915-1.0514 2.8677-.5057a.4.4 0 0 1-.3976.6941Z' fill='%23E0761A'/%3E%3C/g%3E%3Cdefs%3E%3CradialGradient id='paint1_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='matrix(0 7.9992 -7.99863 0 7.9986 7.9992)'%3E%3Cstop offset='.5637' stop-color='%23FF5758' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%23FF5758' stop-opacity='.1'/%3E%3C/radialGradient%3E%3CradialGradient id='paint2_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(45 -4.5262 10.9226) scale(10.1818)'%3E%3Cstop stop-color='%23FFF287'/%3E%3Cstop offset='1' stop-color='%23FFF287' stop-opacity='0'/%3E%3C/radialGradient%3E%3ClinearGradient id='paint0_linear_15251_63610' x1='2.3979' y1='2.3999' x2='13.5973' y2='13.5993' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%23FFF287'/%3E%3Cstop offset='1' stop-color='%23F68628'/%3E%3C/linearGradient%3E%3CclipPath id='clip0_15251_63610'%3E%3Cpath fill='%23fff' d='M-.002 0h15.9992v15.9992H-.002z'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E"
+        ],
+        "inDOM": true,
+        "isSponsored": true,
+        "landingPages": [
+            "https://www.facebook.com/MonJardinMaMaison?__cft__[0]=AZYih_pkzFPNsfuWLms6GwxG2F2eYaaer3nVlnHp3t1ilMNx51ijFFcSktVwVidrL4XZHYcY2SjI7PYnlkIE6ZmEGCOMhdkNpUX9hkXJ_U9I-ajfFgws_pIE70h6-udoIgZoN_iZGVfLXNUBvFK5q55dHsWUfItWowrBnjUPNCGl1fOGXfuUDpemvyA24Ljas4ZCFOC0kWgPFIB5_fW0jVz8&__tn__=%3C%3C%2CP-R",
+            "https://www.facebook.com/MonJardinMaMaison?__cft__[0]=AZYih_pkzFPNsfuWLms6GwxG2F2eYaaer3nVlnHp3t1ilMNx51ijFFcSktVwVidrL4XZHYcY2SjI7PYnlkIE6ZmEGCOMhdkNpUX9hkXJ_U9I-ajfFgws_pIE70h6-udoIgZoN_iZGVfLXNUBvFK5q55dHsWUfItWowrBnjUPNCGl1fOGXfuUDpemvyA24Ljas4ZCFOC0kWgPFIB5_fW0jVz8&__tn__=-UC%2CP-R",
+            "https://www.facebook.com/MonJardinMaMaison/posts/pfbid02Hzcdqhnka7LG2u3wMrq6unStXnbnu9PqrqN7yeFbxf42aBxTxYVxe9zMppVFYW4Rl?__cft__[0]=AZYih_pkzFPNsfuWLms6GwxG2F2eYaaer3nVlnHp3t1ilMNx51ijFFcSktVwVidrL4XZHYcY2SjI7PYnlkIE6ZmEGCOMhdkNpUX9hkXJ_U9I-ajfFgws_pIE70h6-udoIgZoN_iZGVfLXNUBvFK5q55dHsWUfItWowrBnjUPNCGl1fOGXfuUDpemvyA24Ljas4ZCFOC0kWgPFIB5_fW0jVz8&__tn__=%2CO%2CP-R",
+            "https://www.facebook.com/",
+            "https://www.facebook.com/photo/?fbid=1570018771795351&set=a.549164440547461&__cft__[0]=AZYih_pkzFPNsfuWLms6GwxG2F2eYaaer3nVlnHp3t1ilMNx51ijFFcSktVwVidrL4XZHYcY2SjI7PYnlkIE6ZmEGCOMhdkNpUX9hkXJ_U9I-ajfFgws_pIE70h6-udoIgZoN_iZGVfLXNUBvFK5q55dHsWUfItWowrBnjUPNCGl1fOGXfuUDpemvyA24Ljas4ZCFOC0kWgPFIB5_fW0jVz8&__tn__=EH-R"
+        ],
+        "message": "3 astuces pour sauver vos rosiers ce printemps !",
+        "post_id": "980001329111318",
+        "queuedAt": 1777549191535,
+        "source": "dom_standalone",
+        "url": "https://www.facebook.com/MonJardinMaMaison/posts/pfbid02Hzcdqhnka7LG2u3wMrq6unStXnbnu9PqrqN7yeFbxf42aBxTxYVxe9zMppVFYW4Rl"
+    },
+    {
+        "ad": null,
+        "attachments": [],
+        "author": {
+            "id": null,
+            "name": "Unknown Author",
+            "url": null
+        },
+        "detectedAt": 1777549191537,
+        "domFoundAt": 1777549191537,
+        "id": "990000080080988",
+        "images": [],
+        "inDOM": true,
+        "isSponsored": false,
+        "landingPages": [],
+        "message": "3 astuces pour sauver vos rosiers ce printemps !",
+        "post_id": "990000080080988",
+        "queuedAt": 1777549191537,
+        "source": "dom_standalone",
+        "url": ""
+    },
+    {
+        "ad": null,
+        "attachments": [],
+        "author": {
+            "id": "100080234452307",
+            "name": "️Bonsplansdemimi",
+            "url": "https://www.facebook.com/profile.php?id=100080234452307"
+        },
+        "detectedAt": 1777549192852,
+        "domFoundAt": 1777549192852,
+        "id": "990000280358910",
+        "images": [
+            "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/678925162_994882343196238_2672793047295750561_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=104&ccb=1-7&_nc_sid=7b2446&_nc_ohc=hm3PweQLqIMQ7kNvwF90WBz&_nc_oc=Adod3n_tf2NJzcCpki-hjelaU2AsuKFhyB7rJmp2RsbAG7VTX9Z8STVNic4RLKMyKOs&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=16cjiJqHnPf2EC5Wak5s4w&_nc_ss=7c2a8&oh=00_Af2LObbzf4lA5KCphyYT6qVOJOK6QXAxSZ20g2oj49K9bg&oe=69F8F79C",
+            "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/678958095_994882659862873_592319230905029606_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=104&ccb=1-7&_nc_sid=7b2446&_nc_ohc=bUoQrmGSZjoQ7kNvwELX7nh&_nc_oc=Adp_G8m2nvOuleBaUDo9bzpcB3wUnVX9u3NZgU6FCaVODk3ojquDJ8__0m2AvuGdOz4&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=16cjiJqHnPf2EC5Wak5s4w&_nc_ss=7c2a8&oh=00_Af0-ghn6-cnHeguxNbLlphgSXITNMIB_39qLRnDN-vWu-Q&oe=69F90A21",
+            "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/682981360_994882543196218_6594360956022296195_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_ohc=UFMtiAXsS38Q7kNvwFmeJBc&_nc_oc=AdqX6vTM1wFxqshDmabbeoJVOJhQACedtJN0xlWMzLmiKaC1lrpzzWpfFoBKahxbUQk&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=16cjiJqHnPf2EC5Wak5s4w&_nc_ss=7c2a8&oh=00_Af0KvMShkd2k-htI0rOolR_BnwT33cW2Roy3WxktR9PgWg&oe=69F918B7",
+            "https://scontent-cdg4-2.xx.fbcdn.net/v/t39.30808-6/680235245_994882686529537_6802669180232060085_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=101&ccb=1-7&_nc_sid=7b2446&_nc_ohc=Y-b-h_Dg4RwQ7kNvwGPBjIR&_nc_oc=AdqZ1GRdSyZeriixsi47XmxhsXMRJ-9yx35dQyzgHM6wjCMWPZMNe4Lxn5CniIulWgU&_nc_zt=23&_nc_ht=scontent-cdg4-2.xx&_nc_gid=16cjiJqHnPf2EC5Wak5s4w&_nc_ss=7c2a8&oh=00_Af04VZpvoUaoZinXR3NFY6qSMM-1xCbq3tbwL3wr6x23NA&oe=69F91CFD",
+            "https://scontent-cdg4-1.xx.fbcdn.net/v/t39.30808-6/680686887_994882649862874_4211700130698958592_n.jpg?stp=dst-jpg_s590x590_tt6&_nc_cat=110&ccb=1-7&_nc_sid=7b2446&_nc_ohc=OsrOZepFHcQQ7kNvwH6KzYG&_nc_oc=Adqrp72nc__hotNhC4pF8jNJ59R876DZdUNid1NYgSFM5c3Tjp0zhSvIj1Au_2NVrt8&_nc_zt=23&_nc_ht=scontent-cdg4-1.xx&_nc_gid=16cjiJqHnPf2EC5Wak5s4w&_nc_ss=7c2a8&oh=00_Af0TMpf54jwJIfhlFoGbOBuLvkZw0hoWpIIh4_kKrHPnHA&oe=69F91E7D",
+            "data:image/svg+xml,%3Csvg fill='none' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint0_linear_15251_63610)'/%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint1_radial_15251_63610)'/%3E%3Cpath d='M16.0001 7.9996c0 4.418-3.5815 7.9996-7.9995 7.9996S.001 12.4176.001 7.9996 3.5825 0 8.0006 0C12.4186 0 16 3.5815 16 7.9996Z' fill='url(%23paint2_radial_15251_63610)' fill-opacity='.5'/%3E%3Cpath d='M7.3014 3.8662a.6974.6974 0 0 1 .6974-.6977c.6742 0 1.2207.5465 1.2207 1.2206v1.7464a.101.101 0 0 0 .101.101h1.7953c.992 0 1.7232.9273 1.4917 1.892l-.4572 1.9047a2.301 2.301 0 0 1-2.2374 1.764H6.9185a.5752.5752 0 0 1-.5752-.5752V7.7384c0-.4168.097-.8278.2834-1.2005l.2856-.5712a3.6878 3.6878 0 0 0 .3893-1.6509l-.0002-.4496ZM4.367 7a.767.767 0 0 0-.7669.767v3.2598a.767.767 0 0 0 .767.767h.767a.3835.3835 0 0 0 .3835-.3835V7.3835A.3835.3835 0 0 0 5.134 7h-.767Z' fill='%23fff'/%3E%3Cdefs%3E%3CradialGradient id='paint1_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(90 .0005 8) scale(7.99958)'%3E%3Cstop offset='.5618' stop-color='%230866FF' stop-opacity='0'/%3E%3Cstop offset='1' stop-color='%230866FF' stop-opacity='.1'/%3E%3C/radialGradient%3E%3CradialGradient id='paint2_radial_15251_63610' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(45 -4.5257 10.9237) scale(10.1818)'%3E%3Cstop offset='.3143' stop-color='%2302ADFC'/%3E%3Cstop offset='1' stop-color='%2302ADFC' stop-opacity='0'/%3E%3C/radialGradient%3E%3ClinearGradient id='paint0_linear_15251_63610' x1='2.3989' y1='2.3999' x2='13.5983' y2='13.5993' gradientUnits='userSpaceOnUse'%3E%3Cstop stop-color='%2302ADFC'/%3E%3Cstop offset='.5' stop-color='%230866FF'/%3E%3Cstop offset='1' stop-color='%232B7EFF'/%3E%3C/linearGradient%3E%3C/defs%3E%3C/svg%3E"
+        ],
+        "inDOM": true,
+        "isSponsored": true,
+        "landingPages": [
+            "https://www.facebook.com/stories/111258961558585/UzpfSVNDOjI2Nzk0NTU5MDg2ODQ0MDI2/?view_single=false&__cft__[0]=AZbVCTo-lGhfesQFs60C8XbRAVa7fYsL3OPPe8hckVXiPFWJRXUWFN1w2Pc2xfFZPE1B6dsWr6ZVdlvhLecjMJMxSPryMThR1GNymo0-2IQ_M8rr5_XNsDDRTKWRAqrvsaVf_Hg1bwNTxxuhhzeOiDx0aJ7L6dRwutqAQPr8Xozca3dk032L23f_MOh6EY0VUeGBJQ4WOkALHNRSnG70UHjy&__tn__=%3C%3C%2CP-R",
+            "https://www.facebook.com/profile.php?id=100080234452307&__cft__[0]=AZbVCTo-lGhfesQFs60C8XbRAVa7fYsL3OPPe8hckVXiPFWJRXUWFN1w2Pc2xfFZPE1B6dsWr6ZVdlvhLecjMJMxSPryMThR1GNymo0-2IQ_M8rr5_XNsDDRTKWRAqrvsaVf_Hg1bwNTxxuhhzeOiDx0aJ7L6dRwutqAQPr8Xozca3dk032L23f_MOh6EY0VUeGBJQ4WOkALHNRSnG70UHjy&__tn__=-UC%2CP-R",
+            "https://www.facebook.com/permalink.php?story_fbid=pfbid07jrh7xmCGQPsYiX9jz8vqvKpi2BaZE9aG2CjcAsc1HhW43w8N9i8CsBYYAMDL5RXl&id=100080234452307&__cft__[0]=AZbVCTo-lGhfesQFs60C8XbRAVa7fYsL3OPPe8hckVXiPFWJRXUWFN1w2Pc2xfFZPE1B6dsWr6ZVdlvhLecjMJMxSPryMThR1GNymo0-2IQ_M8rr5_XNsDDRTKWRAqrvsaVf_Hg1bwNTxxuhhzeOiDx0aJ7L6dRwutqAQPr8Xozca3dk032L23f_MOh6EY0VUeGBJQ4WOkALHNRSnG70UHjy&__tn__=%2CO%2CP-R",
+            "https://www.facebook.com/",
+            "https://www.facebook.com/hashtag/zeeman?__cft__[0]=AZbVCTo-lGhfesQFs60C8XbRAVa7fYsL3OPPe8hckVXiPFWJRXUWFN1w2Pc2xfFZPE1B6dsWr6ZVdlvhLecjMJMxSPryMThR1GNymo0-2IQ_M8rr5_XNsDDRTKWRAqrvsaVf_Hg1bwNTxxuhhzeOiDx0aJ7L6dRwutqAQPr8Xozca3dk032L23f_MOh6EY0VUeGBJQ4WOkALHNRSnG70UHjy&__tn__=*NK-R",
+            "https://www.facebook.com/photo/?fbid=994881236529682&set=pcb.994882026529603&__cft__[0]=AZbVCTo-lGhfesQFs60C8XbRAVa7fYsL3OPPe8hckVXiPFWJRXUWFN1w2Pc2xfFZPE1B6dsWr6ZVdlvhLecjMJMxSPryMThR1GNymo0-2IQ_M8rr5_XNsDDRTKWRAqrvsaVf_Hg1bwNTxxuhhzeOiDx0aJ7L6dRwutqAQPr8Xozca3dk032L23f_MOh6EY0VUeGBJQ4WOkALHNRSnG70UHjy&__tn__=*b0H-R",
+            "https://www.facebook.com/photo/?fbid=994881539862985&set=pcb.994882026529603&__cft__[0]=AZbVCTo-lGhfesQFs60C8XbRAVa7fYsL3OPPe8hckVXiPFWJRXUWFN1w2Pc2xfFZPE1B6dsWr6ZVdlvhLecjMJMxSPryMThR1GNymo0-2IQ_M8rr5_XNsDDRTKWRAqrvsaVf_Hg1bwNTxxuhhzeOiDx0aJ7L6dRwutqAQPr8Xozca3dk032L23f_MOh6EY0VUeGBJQ4WOkALHNRSnG70UHjy&__tn__=*b1H-R",
+            "https://www.facebook.com/photo/?fbid=994881343196338&set=pcb.994882026529603&__cft__[0]=AZbVCTo-lGhfesQFs60C8XbRAVa7fYsL3OPPe8hckVXiPFWJRXUWFN1w2Pc2xfFZPE1B6dsWr6ZVdlvhLecjMJMxSPryMThR1GNymo0-2IQ_M8rr5_XNsDDRTKWRAqrvsaVf_Hg1bwNTxxuhhzeOiDx0aJ7L6dRwutqAQPr8Xozca3dk032L23f_MOh6EY0VUeGBJQ4WOkALHNRSnG70UHjy&__tn__=*b2H-R",
+            "https://www.facebook.com/photo/?fbid=994881579862981&set=pcb.994882026529603&__cft__[0]=AZbVCTo-lGhfesQFs60C8XbRAVa7fYsL3OPPe8hckVXiPFWJRXUWFN1w2Pc2xfFZPE1B6dsWr6ZVdlvhLecjMJMxSPryMThR1GNymo0-2IQ_M8rr5_XNsDDRTKWRAqrvsaVf_Hg1bwNTxxuhhzeOiDx0aJ7L6dRwutqAQPr8Xozca3dk032L23f_MOh6EY0VUeGBJQ4WOkALHNRSnG70UHjy&__tn__=*b3H-R",
+            "https://www.facebook.com/photo/?fbid=994881523196320&set=pcb.994882026529603&__cft__[0]=AZbVCTo-lGhfesQFs60C8XbRAVa7fYsL3OPPe8hckVXiPFWJRXUWFN1w2Pc2xfFZPE1B6dsWr6ZVdlvhLecjMJMxSPryMThR1GNymo0-2IQ_M8rr5_XNsDDRTKWRAqrvsaVf_Hg1bwNTxxuhhzeOiDx0aJ7L6dRwutqAQPr8Xozca3dk032L23f_MOh6EY0VUeGBJQ4WOkALHNRSnG70UHjy&__tn__=*b4H-R"
+        ],
+        "message": "#zeeman avril 2026",
+        "post_id": "990000280358910",
+        "queuedAt": 1777549192852,
+        "source": "dom_standalone",
+        "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid07jrh7xmCGQPsYiX9jz8vqvKpi2BaZE9aG2CjcAsc1HhW43w8N9i8CsBYYAMDL5RXl&id=100080234452307"
+    }
+]
